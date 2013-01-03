@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5444/trunk/src/query/ops/thin
+END
+LogicalThin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5444/trunk/src/query/ops/thin/LogicalThin.cpp
+END
+PhysicalThin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5396/trunk/src/query/ops/thin/PhysicalThin.cpp
+END
+ThinArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5226/trunk/src/query/ops/thin/ThinArray.cpp
+END
+ThinArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5064/trunk/src/query/ops/thin/ThinArray.h
+END

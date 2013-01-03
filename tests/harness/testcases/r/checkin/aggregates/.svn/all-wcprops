@@ -1,0 +1,713 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates
+END
+regrid_n_e_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_e_1.expected
+END
+new_aggregate_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/new_aggregate_3.expected
+END
+window_n_ma_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ma_2.expected
+END
+window_ma_m2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_ma_m2.expected
+END
+window_n_m3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_m3.expected
+END
+count_nulls_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/count_nulls_1.expected
+END
+regrid_n_m2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_m2.expected
+END
+regrid_n_ma_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_ma_3.expected
+END
+regrid_ma_m4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_ma_m4.expected
+END
+window_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_3.expected
+END
+window_n_ni_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ni_2.expected
+END
+regrid_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_1.expected
+END
+window_e_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_e_2.expected
+END
+window_n_ma_m2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ma_m2.expected
+END
+regrid_e_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_e_2.expected
+END
+stdev_teeth_u.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/stdev_teeth_u.expected
+END
+window_m1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_m1.expected
+END
+regrid_n_ma_m2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_ma_m2.expected
+END
+grand_xyz.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/grand_xyz.expected
+END
+var_teeth_u.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/var_teeth_u.expected
+END
+window_ma_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_ma_2.expected
+END
+window_n_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_3.expected
+END
+window_n_ni_m1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ni_m1.expected
+END
+regrid_ma_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_ma_1.expected
+END
+aggregate_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/aggregate_4.expected
+END
+regrid_m2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_m2.expected
+END
+regrid_teeth_u_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_teeth_u_3.expected
+END
+regrid_n_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_3.expected
+END
+window_n_e_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_e_4.expected
+END
+aggregate_8.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/aggregate_8.expected
+END
+regrid_n_e_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_e_2.expected
+END
+window_n_ma_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ma_3.expected
+END
+window_ma_m3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_ma_m3.expected
+END
+window_n_m4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_m4.expected
+END
+regrid_ma_m1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_ma_m1.expected
+END
+count_nulls_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/count_nulls_2.expected
+END
+summary_teeth.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/summary_teeth.expected
+END
+regrid_n_m3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_m3.expected
+END
+redimension_xyz_even_odd.expected
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/redimension_xyz_even_odd.expected
+END
+regrid_n_ma_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_ma_4.expected
+END
+window_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_4.expected
+END
+window_n_ni_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ni_3.expected
+END
+regrid_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_2.expected
+END
+window_e_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_e_3.expected
+END
+window_n_ma_m3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ma_m3.expected
+END
+regrid_e_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_e_3.expected
+END
+regrid_n_ma_m3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_ma_m3.expected
+END
+grand_teeth_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/grand_teeth_2.expected
+END
+window_m2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_m2.expected
+END
+aggregate_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/aggregate_1.expected
+END
+window_ma_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_ma_3.expected
+END
+window_n_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_4.expected
+END
+stdev_var_xyz.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/stdev_var_xyz.expected
+END
+window_n_e_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_e_1.expected
+END
+window_n_ni_m2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ni_m2.expected
+END
+regrid_ma_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_ma_2.expected
+END
+aggregate_5.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/aggregate_5.expected
+END
+regrid_m3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_m3.expected
+END
+regrid_n_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_4.expected
+END
+aggregate_9.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/aggregate_9.expected
+END
+regrid_n_e_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_e_3.expected
+END
+avg_evec.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/avg_evec.expected
+END
+new_aggregate_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/new_aggregate_1.expected
+END
+window_n_m1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_m1.expected
+END
+window_ma_m4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_ma_m4.expected
+END
+window_n_ma_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ma_4.expected
+END
+regrid_n_ma_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_ma_1.expected
+END
+regrid_ma_m2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_ma_m2.expected
+END
+window_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_1.expected
+END
+regrid_n_m4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_m4.expected
+END
+regrid_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_3.expected
+END
+window_e_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_e_4.expected
+END
+window_n_ma_m4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ma_m4.expected
+END
+regrid_e_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_e_4.expected
+END
+window_n_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_1.expected
+END
+regrid_n_ma_m4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_ma_m4.expected
+END
+window_m3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_m3.expected
+END
+aggregate_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/aggregate_2.expected
+END
+window_ma_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_ma_4.expected
+END
+regrid_n_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_1.expected
+END
+window_n_e_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_e_2.expected
+END
+window_n_ni_m3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ni_m3.expected
+END
+regrid_ma_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_ma_3.expected
+END
+aggregate_6.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/aggregate_6.expected
+END
+regrid_m4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_m4.expected
+END
+cmm_evec.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/cmm_evec.expected
+END
+namecheck.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/namecheck.expected
+END
+regrid_n_e_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_e_4.expected
+END
+new_aggregate_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/new_aggregate_2.expected
+END
+window_ma_m1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_ma_m1.expected
+END
+window_n_ma_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ma_1.expected
+END
+window_n_m2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_m2.expected
+END
+window_teeth_u.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_teeth_u.expected
+END
+grand_teeth.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/grand_teeth.expected
+END
+regrid_n_m1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_m1.expected
+END
+small_datatypes.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/small_datatypes.expected
+END
+regrid_n_ma_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_ma_2.expected
+END
+regrid_ma_m3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_ma_m3.expected
+END
+window_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_2.expected
+END
+regrid_teeth_u.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_teeth_u.expected
+END
+window_n_ni_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ni_1.expected
+END
+window_e_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_e_1.expected
+END
+sum_str.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/sum_str.expected
+END
+window_n_ma_m1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ma_m1.expected
+END
+regrid_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_4.expected
+END
+regrid_e_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_e_1.expected
+END
+regrid_n_ma_m1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_ma_m1.expected
+END
+window_ma_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_ma_1.expected
+END
+window_n_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_2.expected
+END
+window_m4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_m4.expected
+END
+aggregate_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/aggregate_3.expected
+END
+regrid_m1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_m1.expected
+END
+regrid_teeth_u_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_teeth_u_2.expected
+END
+regrid_n_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_n_2.expected
+END
+window_n_e_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_e_3.expected
+END
+window_n_ni_m4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/window_n_ni_m4.expected
+END
+regrid_ma_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/regrid_ma_4.expected
+END
+aggregate_7.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/aggregates/aggregate_7.expected
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5444/trunk/src/query/ops/inverse
+END
+LogicalInverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5444/trunk/src/query/ops/inverse/LogicalInverse.cpp
+END
+PhysicalInverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5396/trunk/src/query/ops/inverse/PhysicalInverse.cpp
+END

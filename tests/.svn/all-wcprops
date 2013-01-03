@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/5773/trunk/tests
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4936/trunk/tests/CMakeLists.txt
+END
+examples
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5402/trunk/tests/examples
+END

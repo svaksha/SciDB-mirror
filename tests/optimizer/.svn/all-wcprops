@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4562/trunk/tests/optimizer
+END
+concat_uneven2.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2352/trunk/tests/optimizer/concat_uneven2.afl
+END
+join_filter_lhs.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/optimizer/join_filter_lhs.afl
+END
+create.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4562/trunk/tests/optimizer/create.sh
+END
+distrotest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4562/trunk/tests/optimizer/distrotest.sh
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4562/trunk/tests/optimizer/run.sh
+END
+subsample1.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2352/trunk/tests/optimizer/subsample1.afl
+END
+subsample2.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2352/trunk/tests/optimizer/subsample2.afl
+END
+join_between_lhs.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2352/trunk/tests/optimizer/join_between_lhs.afl
+END
+join_filter_rhs.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/optimizer/join_filter_rhs.afl
+END
+filter.afl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1564/trunk/tests/optimizer/filter.afl
+END
+concat_uneven.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2352/trunk/tests/optimizer/concat_uneven.afl
+END
+join_nested_sg_override.afl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2352/trunk/tests/optimizer/join_nested_sg_override.afl
+END
+between.afl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1564/trunk/tests/optimizer/between.afl
+END
+join_nested2_lucky.afl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2352/trunk/tests/optimizer/join_nested2_lucky.afl
+END
+join_nested2_unlucky.afl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2352/trunk/tests/optimizer/join_nested2_unlucky.afl
+END
+subsample_nested.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2352/trunk/tests/optimizer/subsample_nested.afl
+END
+distrotest.exp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1383/trunk/tests/optimizer/distrotest.exp
+END
+join.afl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2352/trunk/tests/optimizer/join.afl
+END
+join_nested.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2352/trunk/tests/optimizer/join_nested.afl
+END
+join_filter2_rhs.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2352/trunk/tests/optimizer/join_filter2_rhs.afl
+END

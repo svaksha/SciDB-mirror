@@ -1,0 +1,95 @@
+10
+
+dir
+5777
+http://svn.scidb.org/svn/trunk/src
+http://svn.scidb.org/svn
+
+
+
+2012-10-30T21:45:57.136713Z
+5773
+apoliakov
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+58f552f0-4ebc-4234-bb38-843f83eedd44
+
+mpi
+dir
+
+query
+dir
+
+linear_algebra
+dir
+
+smgr
+dir
+
+delta
+dir
+
+network
+dir
+
+capi
+dir
+
+util
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-11-01T00:03:15.427682Z
+962eb8bec611457902963d0db11d7756
+2012-09-17T21:11:53.486610Z
+5473
+j.mcq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1626
+
+array
+dir
+
+services
+dir
+
+system
+dir
+

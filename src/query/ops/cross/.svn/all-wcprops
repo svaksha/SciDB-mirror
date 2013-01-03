@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5444/trunk/src/query/ops/cross
+END
+LogicalCross.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5444/trunk/src/query/ops/cross/LogicalCross.cpp
+END
+PhysicalCross.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5396/trunk/src/query/ops/cross/PhysicalCross.cpp
+END
+CrossArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4855/trunk/src/query/ops/cross/CrossArray.cpp
+END
+CrossArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4855/trunk/src/query/ops/cross/CrossArray.h
+END

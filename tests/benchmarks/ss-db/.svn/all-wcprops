@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5186/trunk/tests/benchmarks/ss-db
+END
+run_very_small.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5080/trunk/tests/benchmarks/ss-db/run_very_small.sh
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3906/trunk/tests/benchmarks/ss-db/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4605/trunk/tests/benchmarks/ss-db/README
+END
+run_tiny.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5080/trunk/tests/benchmarks/ss-db/run_tiny.sh
+END
+chunkDistributer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3968/trunk/tests/benchmarks/ss-db/chunkDistributer.sh
+END
+log4cxx.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3365/trunk/tests/benchmarks/ss-db/log4cxx.properties
+END
+run_normal.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5080/trunk/tests/benchmarks/ss-db/run_normal.sh
+END
+run_small.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5080/trunk/tests/benchmarks/ss-db/run_small.sh
+END

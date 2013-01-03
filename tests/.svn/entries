@@ -1,0 +1,129 @@
+10
+
+dir
+5777
+http://svn.scidb.org/svn/trunk/tests
+http://svn.scidb.org/svn
+
+
+
+2012-10-30T21:45:57.136713Z
+5773
+apoliakov
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+58f552f0-4ebc-4234-bb38-843f83eedd44
+
+utils
+dir
+
+basic
+dir
+
+mu
+dir
+
+data_gen
+dir
+
+optimizer
+dir
+
+harness
+dir
+
+test_generator
+dir
+
+scale
+dir
+
+benchmarks
+dir
+
+xldb_demo
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-11-01T00:03:58.939135Z
+fbb41f45fc54a6e4c0bef8eaec29b2cb
+2012-05-14T15:32:08.269844Z
+4936
+sunnyjeswani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1142
+
+examples
+file
+
+
+
+
+2012-11-01T00:03:58.939135Z
+4515e1b404b76dc6a9bd60e77e41bdaf
+2012-08-29T18:02:01.977414Z
+5402
+sunnyjeswani
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+unit
+dir
+

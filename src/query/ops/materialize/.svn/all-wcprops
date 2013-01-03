@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5444/trunk/src/query/ops/materialize
+END
+LogicalMaterialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5444/trunk/src/query/ops/materialize/LogicalMaterialize.cpp
+END
+PhysicalMaterialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4237/trunk/src/query/ops/materialize/PhysicalMaterialize.cpp
+END

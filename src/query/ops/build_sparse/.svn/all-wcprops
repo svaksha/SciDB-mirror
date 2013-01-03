@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5444/trunk/src/query/ops/build_sparse
+END
+LogicalBuildSparse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5444/trunk/src/query/ops/build_sparse/LogicalBuildSparse.cpp
+END
+PhysicalBuildSparse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4237/trunk/src/query/ops/build_sparse/PhysicalBuildSparse.cpp
+END
+BuildSparseArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4562/trunk/src/query/ops/build_sparse/BuildSparseArray.cpp
+END
+BuildSparseArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4562/trunk/src/query/ops/build_sparse/BuildSparseArray.h
+END

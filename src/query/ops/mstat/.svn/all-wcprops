@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5444/trunk/src/query/ops/mstat
+END
+LogicalMStat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5444/trunk/src/query/ops/mstat/LogicalMStat.cpp
+END
+PhysicalMStat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5396/trunk/src/query/ops/mstat/PhysicalMStat.cpp
+END

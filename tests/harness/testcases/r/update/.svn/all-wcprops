@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/update
+END
+append1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/update/append1.expected
+END
+updatedeltareallylarge.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2395/trunk/tests/harness/testcases/r/update/updatedeltareallylarge.expected
+END
+update001.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/update/update001.expected
+END
+update003.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/update/update003.expected
+END
+update005.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/update/update005.expected
+END
+updatedeltalarge.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2395/trunk/tests/harness/testcases/r/update/updatedeltalarge.expected
+END

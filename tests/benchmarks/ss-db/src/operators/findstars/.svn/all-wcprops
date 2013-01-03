@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4946/trunk/tests/benchmarks/ss-db/src/operators/findstars
+END
+PhysicalFindStars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4605/trunk/tests/benchmarks/ss-db/src/operators/findstars/PhysicalFindStars.cpp
+END
+Cook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4237/trunk/tests/benchmarks/ss-db/src/operators/findstars/Cook.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4669/trunk/tests/benchmarks/ss-db/src/operators/findstars/CMakeLists.txt
+END
+PixelProvider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4237/trunk/tests/benchmarks/ss-db/src/operators/findstars/PixelProvider.cpp
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3365/trunk/tests/benchmarks/ss-db/src/operators/findstars/run.sh
+END
+Q2Cook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4237/trunk/tests/benchmarks/ss-db/src/operators/findstars/Q2Cook.cpp
+END
+plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4946/trunk/tests/benchmarks/ss-db/src/operators/findstars/plugin.cpp
+END
+Cook.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4237/trunk/tests/benchmarks/ss-db/src/operators/findstars/Cook.h
+END
+PixelProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4237/trunk/tests/benchmarks/ss-db/src/operators/findstars/PixelProvider.h
+END
+polygonizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4237/trunk/tests/benchmarks/ss-db/src/operators/findstars/polygonizer.h
+END
+LogicalFindStars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4549/trunk/tests/benchmarks/ss-db/src/operators/findstars/LogicalFindStars.cpp
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5712/trunk/src/util
+END
+require.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4237/trunk/src/util/require.h
+END
+Semaphore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4497/trunk/src/util/Semaphore.cpp
+END
+PluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5653/trunk/src/util/PluginManager.cpp
+END
+naInternal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5503/trunk/src/util/naInternal.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5427/trunk/src/util/CMakeLists.txt
+END
+na.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/5503/trunk/src/util/na.cpp
+END
+PluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4237/trunk/src/util/PluginManager.h
+END
+naTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5503/trunk/src/util/naTest.cpp
+END
+InjectedError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5239/trunk/src/util/InjectedError.cpp
+END
+ThreadPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5135/trunk/src/util/ThreadPool.cpp
+END
+log4cxx.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3925/trunk/src/util/log4cxx.properties
+END
+BufferedFileInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5534/trunk/src/util/BufferedFileInput.cpp
+END
+Thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5135/trunk/src/util/Thread.cpp
+END
+FileIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5697/trunk/src/util/FileIO.cpp
+END
+BufferedFileInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5534/trunk/src/util/BufferedFileInput.h
+END
+PluginObjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4237/trunk/src/util/PluginObjects.cpp
+END
+Job.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5385/trunk/src/util/Job.cpp
+END
+scidb-sample.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5485/trunk/src/util/scidb-sample.conf.in
+END
+require.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4237/trunk/src/util/require.cpp
+END
+JobQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5135/trunk/src/util/JobQueue.cpp
+END

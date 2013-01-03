@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5444/trunk/src/query/ops/remove
+END
+LogicalRemove.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5444/trunk/src/query/ops/remove/LogicalRemove.cpp
+END
+PhysicalRemove.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5218/trunk/src/query/ops/remove/PhysicalRemove.cpp
+END

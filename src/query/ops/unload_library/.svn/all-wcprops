@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5444/trunk/src/query/ops/unload_library
+END
+LogicalUnLoadLibrary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5444/trunk/src/query/ops/unload_library/LogicalUnLoadLibrary.cpp
+END
+PhysicalUnLoadLibrary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4237/trunk/src/query/ops/unload_library/PhysicalUnLoadLibrary.cpp
+END

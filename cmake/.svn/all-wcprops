@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/5590/trunk/cmake
+END
+post_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2933/trunk/cmake/post_install.cmake
+END
+CPackConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4678/trunk/cmake/CPackConfig.cmake.in
+END
+uninstall.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2858/trunk/cmake/uninstall.cmake.in
+END

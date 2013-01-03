@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5444/trunk/src/query/ops/diskinfo
+END
+LogicalDiskInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5444/trunk/src/query/ops/diskinfo/LogicalDiskInfo.cpp
+END
+PhysicalDiskInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5444/trunk/src/query/ops/diskinfo/PhysicalDiskInfo.cpp
+END

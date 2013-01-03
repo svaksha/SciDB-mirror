@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5769/trunk/src/system
+END
+Exceptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4237/trunk/src/system/Exceptions.cpp
+END
+Constants.cpp.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5202/trunk/src/system/Constants.cpp.in
+END
+Cluster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5104/trunk/src/system/Cluster.cpp
+END
+BlockCyclic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5356/trunk/src/system/BlockCyclic.cpp
+END
+System.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5638/trunk/src/system/System.cpp
+END
+SciDBConfigOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5706/trunk/src/system/SciDBConfigOptions.cpp
+END
+ExceptionUnitTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4237/trunk/src/system/ExceptionUnitTests.h
+END
+Warnings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4237/trunk/src/system/Warnings.cpp
+END
+Sysinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4237/trunk/src/system/Sysinfo.cpp
+END
+SciDBConfigOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5084/trunk/src/system/SciDBConfigOptions.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5315/trunk/src/system/CMakeLists.txt
+END
+ShortErrorsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5722/trunk/src/system/ShortErrorsList.h
+END
+LongErrorsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5662/trunk/src/system/LongErrorsList.h
+END
+System.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4987/trunk/src/system/System.h.in
+END
+ErrorsLibrary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4237/trunk/src/system/ErrorsLibrary.cpp
+END
+Config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5565/trunk/src/system/Config.cpp
+END
+Resources.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4989/trunk/src/system/Resources.cpp
+END

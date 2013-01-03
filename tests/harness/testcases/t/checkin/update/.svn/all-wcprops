@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4558/trunk/tests/harness/testcases/t/checkin/update
+END
+default_7.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/default_7.test
+END
+default_8.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/default_8.test
+END
+default_9.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/default_9.test
+END
+updatedelta.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/updatedelta.test
+END
+default_1.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/default_1.test
+END
+update002.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/update002.test
+END
+default_2.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/default_2.test
+END
+default_3.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/default_3.test
+END
+update004.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/update004.test
+END
+version1.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4558/trunk/tests/harness/testcases/t/checkin/update/version1.test
+END
+default_4.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/default_4.test
+END
+default_5.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/default_5.test
+END
+default_6.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/update/default_6.test
+END

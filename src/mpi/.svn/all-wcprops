@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/5768/trunk/src/mpi
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5730/trunk/src/mpi/CMakeLists.txt
+END
+plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5416/trunk/src/mpi/plugin.cpp
+END
+MPIManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5749/trunk/src/mpi/MPIManager.cpp
+END
+pluginNoMpi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5416/trunk/src/mpi/pluginNoMpi.cpp
+END
+MPIPhysical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5692/trunk/src/mpi/MPIPhysical.cpp
+END
+MPISlaveProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5749/trunk/src/mpi/MPISlaveProxy.cpp
+END
+MPIInitLogical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5730/trunk/src/mpi/MPIInitLogical.cpp
+END
+MPIInitPhysical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5730/trunk/src/mpi/MPIInitPhysical.cpp
+END
+MPIUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5732/trunk/src/mpi/MPIUtils.cpp
+END
+MPILauncher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5749/trunk/src/mpi/MPILauncher.cpp
+END

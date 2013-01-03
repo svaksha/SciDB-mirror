@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5444/trunk/src/query/ops/reverse
+END
+LogicalReverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5444/trunk/src/query/ops/reverse/LogicalReverse.cpp
+END
+PhysicalReverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5396/trunk/src/query/ops/reverse/PhysicalReverse.cpp
+END
+ReverseArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4441/trunk/src/query/ops/reverse/ReverseArray.cpp
+END
+ReverseArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4237/trunk/src/query/ops/reverse/ReverseArray.h
+END

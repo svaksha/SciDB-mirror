@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5768/trunk/src/linear_algebra
+END
+doSvdMetric.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5615/trunk/src/linear_algebra/doSvdMetric.sh
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5692/trunk/src/linear_algebra/CMakeLists.txt
+END
+diag.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5670/trunk/src/linear_algebra/diag.sh
+END
+plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5647/trunk/src/linear_algebra/plugin.cpp
+END
+pluginNoSP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5477/trunk/src/linear_algebra/pluginNoSP.cpp
+END
+DLAErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5647/trunk/src/linear_algebra/DLAErrors.h
+END
+doSvd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5764/trunk/src/linear_algebra/doSvd.sh
+END
+doSvdWithMetrics.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5726/trunk/src/linear_algebra/doSvdWithMetrics.sh
+END

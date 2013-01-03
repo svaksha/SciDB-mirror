@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5723/trunk/src/query/ops/merge
+END
+MergeArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5723/trunk/src/query/ops/merge/MergeArray.cpp
+END
+MergeArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5381/trunk/src/query/ops/merge/MergeArray.h
+END
+LogicalMerge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5444/trunk/src/query/ops/merge/LogicalMerge.cpp
+END
+PhysicalMerge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5381/trunk/src/query/ops/merge/PhysicalMerge.cpp
+END

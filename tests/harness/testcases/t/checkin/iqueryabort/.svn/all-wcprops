@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4047/trunk/tests/harness/testcases/t/checkin/iqueryabort
+END
+iq_SIGINT_write_1.test
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4047/trunk/tests/harness/testcases/t/checkin/iqueryabort/iq_SIGINT_write_1.test
+END

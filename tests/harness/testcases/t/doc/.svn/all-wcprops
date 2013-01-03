@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/t/doc
+END
+redimension_1.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/t/doc/redimension_1.test
+END
+ug_loadingData_opaque.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/t/doc/ug_loadingData_opaque.test
+END
+redimension_2.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5035/trunk/tests/harness/testcases/t/doc/redimension_2.test
+END
+ug_loadingData_CSV.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/t/doc/ug_loadingData_CSV.test
+END
+ug_loadingData_errors.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/t/doc/ug_loadingData_errors.test
+END
+ug_loadingData_specialValues.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/t/doc/ug_loadingData_specialValues.test
+END
+ug_loadingData_binary.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/t/doc/ug_loadingData_binary.test
+END
+redimension_store_1.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5043/trunk/tests/harness/testcases/t/doc/redimension_store_1.test
+END

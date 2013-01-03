@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5720/trunk/src/query/ops/variable_window
+END
+VariableWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5504/trunk/src/query/ops/variable_window/VariableWindow.h
+END
+LogicalVariableWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5504/trunk/src/query/ops/variable_window/LogicalVariableWindow.cpp
+END
+PhysicalVariableWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5720/trunk/src/query/ops/variable_window/PhysicalVariableWindow.cpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5444/trunk/src/query/ops/load_library
+END
+PhysicalLoadLibrary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4834/trunk/src/query/ops/load_library/PhysicalLoadLibrary.cpp
+END
+LogicalLoadLibrary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5444/trunk/src/query/ops/load_library/LogicalLoadLibrary.cpp
+END

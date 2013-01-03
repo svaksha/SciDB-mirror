@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5695/trunk/doc/user/examples
+END
+bInsert.csv
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5629/trunk/doc/user/examples/bInsert.csv
+END
+cInsert.csv
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5629/trunk/doc/user/examples/cInsert.csv
+END
+mostNumbers.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5304/trunk/doc/user/examples/mostNumbers.scidb
+END
+datafile.csv
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4662/trunk/doc/user/examples/datafile.csv
+END
+null_empty.aql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4456/trunk/doc/user/examples/null_empty.aql
+END
+raw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4943/trunk/doc/user/examples/raw.txt
+END
+mostNumbers.csv
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5304/trunk/doc/user/examples/mostNumbers.csv
+END
+vector3.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5376/trunk/doc/user/examples/vector3.scidb
+END
+m4x4_null.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5331/trunk/doc/user/examples/m4x4_null.scidb
+END
+letters.csv
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5355/trunk/doc/user/examples/letters.csv
+END
+ex_aggr.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4350/trunk/doc/user/examples/ex_aggr.afl
+END
+doseData.csv
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5334/trunk/doc/user/examples/doseData.csv
+END
+lettersPlus.csv
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5355/trunk/doc/user/examples/lettersPlus.csv
+END
+2d-mc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4377/trunk/doc/user/examples/2d-mc.txt
+END
+csv-errors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5266/trunk/doc/user/examples/csv-errors.txt
+END
+window.aql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4350/trunk/doc/user/examples/window.aql
+END
+raw.csv
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5695/trunk/doc/user/examples/raw.csv
+END
+pprint.sed
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4423/trunk/doc/user/examples/pprint.sed
+END
+redim_store.aql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5230/trunk/doc/user/examples/redim_store.aql
+END
+M4x4_empty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5331/trunk/doc/user/examples/M4x4_empty.txt
+END
+olympic_data.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5304/trunk/doc/user/examples/olympic_data.scidb
+END
+winners2.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5304/trunk/doc/user/examples/winners2.scidb
+END
+oddNumbers.csv
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5355/trunk/doc/user/examples/oddNumbers.csv
+END
+basic.aql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4350/trunk/doc/user/examples/basic.aql
+END
+adddim.aql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4456/trunk/doc/user/examples/adddim.aql
+END
+olympic_data.csv
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5304/trunk/doc/user/examples/olympic_data.csv
+END
+winners2.csv
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5304/trunk/doc/user/examples/winners2.csv
+END
+A.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5376/trunk/doc/user/examples/A.scidb
+END
+m4x4_missing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5376/trunk/doc/user/examples/m4x4_missing.txt
+END
+non_integer_dimensions.ail
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4459/trunk/doc/user/examples/non_integer_dimensions.ail
+END
+B.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5376/trunk/doc/user/examples/B.scidb
+END
+analyze.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4534/trunk/doc/user/examples/analyze.afl
+END
+expo_example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5331/trunk/doc/user/examples/expo_example.txt
+END
+v4_null.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4532/trunk/doc/user/examples/v4_null.scidb
+END
+cast.aql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5230/trunk/doc/user/examples/cast.aql
+END
+intensity_data.opaque
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5571/trunk/doc/user/examples/intensity_data.opaque
+END
+m3x3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5347/trunk/doc/user/examples/m3x3.txt
+END
+m4x4_double.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5339/trunk/doc/user/examples/m4x4_double.scidb
+END
+expo_example.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5331/trunk/doc/user/examples/expo_example.scidb
+END
+int4error.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5267/trunk/doc/user/examples/int4error.scidb
+END
+num_data.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4377/trunk/doc/user/examples/num_data.scidb
+END
+redim.aql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4943/trunk/doc/user/examples/redim.aql
+END
+redim_missing.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5331/trunk/doc/user/examples/redim_missing.scidb
+END
+v4.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4532/trunk/doc/user/examples/v4.scidb
+END
+m4x4.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5331/trunk/doc/user/examples/m4x4.scidb
+END
+bydim.aql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4350/trunk/doc/user/examples/bydim.aql
+END
+winnersFew.csv
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5355/trunk/doc/user/examples/winnersFew.csv
+END
+int4error.csv
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5267/trunk/doc/user/examples/int4error.csv
+END
+num_data.csv
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4532/trunk/doc/user/examples/num_data.csv
+END
+all_null.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5331/trunk/doc/user/examples/all_null.scidb
+END
+datafile_price.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4662/trunk/doc/user/examples/datafile_price.csv
+END
+intensity_data.bin
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5264/trunk/doc/user/examples/intensity_data.bin
+END
+namesData.csv
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5334/trunk/doc/user/examples/namesData.csv
+END
+regrid.aql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4350/trunk/doc/user/examples/regrid.aql
+END
+nationWinners.csv
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5301/trunk/doc/user/examples/nationWinners.csv
+END
+sparse-load.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4377/trunk/doc/user/examples/sparse-load.txt
+END
+m4x4_2attr.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5331/trunk/doc/user/examples/m4x4_2attr.scidb
+END
+m4x4_empty.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5571/trunk/doc/user/examples/m4x4_empty.scidb
+END
+aInsert.csv
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5629/trunk/doc/user/examples/aInsert.csv
+END

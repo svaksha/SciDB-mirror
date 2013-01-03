@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5764/trunk/deployment/ubuntu1204
+END
+scidb_pkgs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5677/trunk/deployment/ubuntu1204/scidb_pkgs.sh
+END
+stop_virbr0.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5716/trunk/deployment/ubuntu1204/stop_virbr0.sh
+END
+deploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5716/trunk/deployment/ubuntu1204/deploy.sh
+END
+toolchain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5736/trunk/deployment/ubuntu1204/toolchain.sh
+END
+pswdless_ssh.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5750/trunk/deployment/ubuntu1204/pswdless_ssh.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5764/trunk/deployment/ubuntu1204/README.txt
+END
+runtime.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5735/trunk/deployment/ubuntu1204/runtime.sh
+END
+pg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5677/trunk/deployment/ubuntu1204/pg.sh
+END

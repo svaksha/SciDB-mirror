@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5470/trunk/examples/bestmatch
+END
+LogicalBestMatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5135/trunk/examples/bestmatch/LogicalBestMatch.cpp
+END
+PhysicalBestMatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5383/trunk/examples/bestmatch/PhysicalBestMatch.cpp
+END
+BestMatchArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5357/trunk/examples/bestmatch/BestMatchArray.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5470/trunk/examples/bestmatch/CMakeLists.txt
+END
+BestMatchArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5135/trunk/examples/bestmatch/BestMatchArray.h
+END
+plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5135/trunk/examples/bestmatch/plugin.cpp
+END

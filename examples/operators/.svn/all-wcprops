@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4237/trunk/examples/operators
+END
+LogicalStub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4237/trunk/examples/operators/LogicalStub.cpp
+END
+PhysicalStub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4237/trunk/examples/operators/PhysicalStub.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2858/trunk/examples/operators/CMakeLists.txt
+END
+plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4237/trunk/examples/operators/plugin.cpp
+END

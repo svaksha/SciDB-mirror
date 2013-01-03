@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update
+END
+default_8.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/default_8.expected
+END
+default_9.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/default_9.expected
+END
+updatedeltareallylarge.expected
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/update/updatedeltareallylarge.expected
+END
+append1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/update/append1.expected
+END
+updatedelta.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/updatedelta.expected
+END
+update001.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/update/update001.expected
+END
+update002.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/update002.expected
+END
+default_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/default_1.expected
+END
+update003.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/update/update003.expected
+END
+default_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/default_2.expected
+END
+update004.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/update004.expected
+END
+default_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/default_3.expected
+END
+version1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/version1.expected
+END
+update005.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/update/update005.expected
+END
+default_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/default_4.expected
+END
+updatedeltalarge.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/update/updatedeltalarge.expected
+END
+default_5.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/default_5.expected
+END
+default_6.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/default_6.expected
+END
+default_7.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/update/default_7.expected
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5773/trunk/tests/harness/testcases/t/checkin
+END
+repart_empty.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5573/trunk/tests/harness/testcases/t/checkin/repart_empty.test
+END
+repart_not_empty.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5565/trunk/tests/harness/testcases/t/checkin/repart_not_empty.test
+END
+chunk_count.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5688/trunk/tests/harness/testcases/t/checkin/chunk_count.test
+END
+repart_unbounded.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5573/trunk/tests/harness/testcases/t/checkin/repart_unbounded.test
+END
+repart_same.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5502/trunk/tests/harness/testcases/t/checkin/repart_same.test
+END
+repart_algo_selection.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/t/checkin/repart_algo_selection.test
+END
+repart_NID.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5573/trunk/tests/harness/testcases/t/checkin/repart_NID.test
+END

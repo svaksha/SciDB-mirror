@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5444/trunk/src/query/ops/between
+END
+BetweenArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4817/trunk/src/query/ops/between/BetweenArray.h
+END
+LogicalBetween.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5444/trunk/src/query/ops/between/LogicalBetween.cpp
+END
+PhysicalBetween.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5294/trunk/src/query/ops/between/PhysicalBetween.cpp
+END
+BetweenArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5318/trunk/src/query/ops/between/BetweenArray.cpp
+END

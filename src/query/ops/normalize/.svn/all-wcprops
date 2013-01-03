@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5444/trunk/src/query/ops/normalize
+END
+NormalizeArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4237/trunk/src/query/ops/normalize/NormalizeArray.h
+END
+LogicalNormalize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5444/trunk/src/query/ops/normalize/LogicalNormalize.cpp
+END
+PhysicalNormalize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5396/trunk/src/query/ops/normalize/PhysicalNormalize.cpp
+END
+NormalizeArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4441/trunk/src/query/ops/normalize/NormalizeArray.cpp
+END

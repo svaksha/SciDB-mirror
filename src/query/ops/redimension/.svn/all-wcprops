@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5769/trunk/src/query/ops/redimension
+END
+LogicalRedimension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5454/trunk/src/query/ops/redimension/LogicalRedimension.cpp
+END
+PhysicalRedimension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5691/trunk/src/query/ops/redimension/PhysicalRedimension.cpp
+END
+SyntheticDimHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5449/trunk/src/query/ops/redimension/SyntheticDimHelper.h
+END
+RedimensionCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5691/trunk/src/query/ops/redimension/RedimensionCommon.h
+END
+LogicalRedimensionStore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5454/trunk/src/query/ops/redimension/LogicalRedimensionStore.cpp
+END
+RedimensionCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5691/trunk/src/query/ops/redimension/RedimensionCommon.cpp
+END
+PhysicalRedimensionStore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5769/trunk/src/query/ops/redimension/PhysicalRedimensionStore.cpp
+END

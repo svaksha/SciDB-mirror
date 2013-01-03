@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5444/trunk/src/query/ops/explainLogical
+END
+LogicalExplainLogical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5444/trunk/src/query/ops/explainLogical/LogicalExplainLogical.cpp
+END
+PhysicalExplainLogical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5151/trunk/src/query/ops/explainLogical/PhysicalExplainLogical.cpp
+END

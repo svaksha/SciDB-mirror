@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5614/trunk/src/query/ops/sort
+END
+LogicalSort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5614/trunk/src/query/ops/sort/LogicalSort.cpp
+END
+PhysicalSort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5294/trunk/src/query/ops/sort/PhysicalSort.cpp
+END

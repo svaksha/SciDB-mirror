@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5444/trunk/src/query/ops/show
+END
+LogicalShow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5444/trunk/src/query/ops/show/LogicalShow.cpp
+END
+PhysicalShow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5151/trunk/src/query/ops/show/PhysicalShow.cpp
+END

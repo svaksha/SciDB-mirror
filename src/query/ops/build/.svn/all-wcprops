@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5444/trunk/src/query/ops/build
+END
+LogicalBuild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5444/trunk/src/query/ops/build/LogicalBuild.cpp
+END
+PhysicalBuild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5294/trunk/src/query/ops/build/PhysicalBuild.cpp
+END
+BuildArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4562/trunk/src/query/ops/build/BuildArray.cpp
+END
+BuildArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4562/trunk/src/query/ops/build/BuildArray.h
+END

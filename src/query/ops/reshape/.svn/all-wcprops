@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5444/trunk/src/query/ops/reshape
+END
+ShiftArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4237/trunk/src/query/ops/reshape/ShiftArray.h
+END
+LogicalReshape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5444/trunk/src/query/ops/reshape/LogicalReshape.cpp
+END
+PhysicalReshape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5396/trunk/src/query/ops/reshape/PhysicalReshape.cpp
+END
+ReshapeArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5226/trunk/src/query/ops/reshape/ReshapeArray.cpp
+END
+ReshapeArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4237/trunk/src/query/ops/reshape/ReshapeArray.h
+END
+ShiftArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4237/trunk/src/query/ops/reshape/ShiftArray.cpp
+END

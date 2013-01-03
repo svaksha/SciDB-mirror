@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5437/trunk/tests/harness/testcases/t/client
+END
+querylist.csv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4966/trunk/tests/harness/testcases/t/client/querylist.csv
+END
+basic.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5437/trunk/tests/harness/testcases/t/client/basic.py.in
+END
+python_1.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4966/trunk/tests/harness/testcases/t/client/python_1.test
+END

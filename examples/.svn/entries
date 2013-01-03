@@ -1,0 +1,95 @@
+10
+
+dir
+5777
+http://svn.scidb.org/svn/trunk/examples
+http://svn.scidb.org/svn
+
+
+
+2012-10-24T10:15:35.633415Z
+5720
+egor.pugin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+58f552f0-4ebc-4234-bb38-843f83eedd44
+
+fits
+dir
+
+complex
+dir
+
+point
+dir
+
+ra_decl
+dir
+
+rational
+dir
+
+bestmatch
+dir
+
+misc
+dir
+
+more_math
+dir
+
+match
+dir
+
+savebmp
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-11-01T00:04:00.335117Z
+ae91ee92efe029223b97d810a200274a
+2012-08-16T22:38:00.916699Z
+5370
+apoliakov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1122
+
+operators
+dir
+

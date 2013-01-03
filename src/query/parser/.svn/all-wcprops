@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5720/trunk/src/query/parser
+END
+AQLGrammar.yy
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5560/trunk/src/query/parser/AQLGrammar.yy
+END
+AQLKeywords.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4734/trunk/src/query/parser/AQLKeywords.cpp
+END
+AFLLexems.ll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5140/trunk/src/query/parser/AFLLexems.ll
+END
+AQLKeywordsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5560/trunk/src/query/parser/AQLKeywordsList.h
+END
+ALTranslator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5720/trunk/src/query/parser/ALTranslator.cpp
+END
+AQLKeywords.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4734/trunk/src/query/parser/AQLKeywords.h
+END
+ALTranslator.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4237/trunk/src/query/parser/ALTranslator.h
+END
+ParsingContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4237/trunk/src/query/parser/ParsingContext.h
+END
+AQLLexems.ll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5140/trunk/src/query/parser/AQLLexems.ll
+END
+AFLParserWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4237/trunk/src/query/parser/AFLParserWrapper.cpp
+END
+AFLScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4237/trunk/src/query/parser/AFLScanner.h
+END
+QueryParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4734/trunk/src/query/parser/QueryParser.cpp
+END
+AFLParserWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4237/trunk/src/query/parser/AFLParserWrapper.h
+END
+AST.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4237/trunk/src/query/parser/AST.cpp
+END
+QueryParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4734/trunk/src/query/parser/QueryParser.h
+END
+Serialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4237/trunk/src/query/parser/Serialize.cpp
+END
+AFLGrammar.yy
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4734/trunk/src/query/parser/AFLGrammar.yy
+END
+AFLKeywords.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4237/trunk/src/query/parser/AFLKeywords.cpp
+END
+AQLParserWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4237/trunk/src/query/parser/AQLParserWrapper.cpp
+END
+AFLKeywordsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4237/trunk/src/query/parser/AFLKeywordsList.h
+END
+AQLScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4237/trunk/src/query/parser/AQLScanner.h
+END
+AST.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5560/trunk/src/query/parser/AST.h
+END
+Serialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4237/trunk/src/query/parser/Serialize.h
+END
+AFLKeywords.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4237/trunk/src/query/parser/AFLKeywords.h
+END
+AQLParserWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4237/trunk/src/query/parser/AQLParserWrapper.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5444/trunk/src/query/ops/xgrid
+END
+XgridArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4237/trunk/src/query/ops/xgrid/XgridArray.h
+END
+LogicalXgrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5444/trunk/src/query/ops/xgrid/LogicalXgrid.cpp
+END
+PhysicalXgrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5396/trunk/src/query/ops/xgrid/PhysicalXgrid.cpp
+END
+XgridArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5226/trunk/src/query/ops/xgrid/XgridArray.cpp
+END

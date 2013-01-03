@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/5419/trunk/cdash
+END
+SciDB_DashboardSubmission.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4288/trunk/cdash/SciDB_DashboardSubmission.cmake
+END
+CTestConfig.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1754/trunk/cdash/CTestConfig.cmake
+END
+SciDBSubmitBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5419/trunk/cdash/SciDBSubmitBuild.sh
+END

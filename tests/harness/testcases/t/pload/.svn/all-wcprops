@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5701/trunk/tests/harness/testcases/t/pload
+END
+loadcsv_less_lines.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5682/trunk/tests/harness/testcases/t/pload/loadcsv_less_lines.test
+END
+loadcsv_equal_lines.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5682/trunk/tests/harness/testcases/t/pload/loadcsv_equal_lines.test
+END
+loadcsv_targetArray_RSI.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5698/trunk/tests/harness/testcases/t/pload/loadcsv_targetArray_RSI.test
+END
+loadcsv_array_wid_attribute.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5690/trunk/tests/harness/testcases/t/pload/loadcsv_array_wid_attribute.test
+END
+loadcsv_targetArray_RSL.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5700/trunk/tests/harness/testcases/t/pload/loadcsv_targetArray_RSL.test
+END
+loadcsv_array_wo_attribute.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5690/trunk/tests/harness/testcases/t/pload/loadcsv_array_wo_attribute.test
+END
+loadcsv_more_lines2.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5682/trunk/tests/harness/testcases/t/pload/loadcsv_more_lines2.test
+END
+loadcsv_chk_rows.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5682/trunk/tests/harness/testcases/t/pload/loadcsv_chk_rows.test
+END
+loadcsv_multiple_sessions.test
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5682/trunk/tests/harness/testcases/t/pload/loadcsv_multiple_sessions.test
+END
+loadcsv_shadow_array.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5682/trunk/tests/harness/testcases/t/pload/loadcsv_shadow_array.test
+END
+loadcsv_targetArray_IRI.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5698/trunk/tests/harness/testcases/t/pload/loadcsv_targetArray_IRI.test
+END
+csv2scidb1.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5665/trunk/tests/harness/testcases/t/pload/csv2scidb1.test
+END
+paraload1.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5682/trunk/tests/harness/testcases/t/pload/paraload1.test
+END
+loadcsv_targetArray_IRL.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5698/trunk/tests/harness/testcases/t/pload/loadcsv_targetArray_IRL.test
+END
+loadcsv_more_lines.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5682/trunk/tests/harness/testcases/t/pload/loadcsv_more_lines.test
+END

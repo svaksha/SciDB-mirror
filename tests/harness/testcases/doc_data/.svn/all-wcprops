@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/doc_data
+END
+olympic_data.csv
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/doc_data/olympic_data.csv
+END
+intensity.csv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/doc_data/intensity.csv
+END
+winners2.csv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5043/trunk/tests/harness/testcases/doc_data/winners2.csv
+END
+int4error.csv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/doc_data/int4error.csv
+END
+intensityBig.csv
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/doc_data/intensityBig.csv
+END
+v4_null.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/doc_data/v4_null.scidb
+END
+raw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5035/trunk/tests/harness/testcases/doc_data/raw.txt
+END
+bug1709.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5035/trunk/tests/harness/testcases/doc_data/bug1709.csv
+END
+v4.scidb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5155/trunk/tests/harness/testcases/doc_data/v4.scidb
+END

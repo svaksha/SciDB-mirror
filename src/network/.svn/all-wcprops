@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5704/trunk/src/network
+END
+MessageUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4989/trunk/src/network/MessageUtils.h
+END
+ThrottledScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4237/trunk/src/network/ThrottledScheduler.h
+END
+NetworkManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5362/trunk/src/network/NetworkManager.cpp
+END
+NetworkManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5142/trunk/src/network/NetworkManager.h
+END
+ClientMessageHandleJob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5276/trunk/src/network/ClientMessageHandleJob.cpp
+END
+BaseConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5416/trunk/src/network/BaseConnection.cpp
+END
+MessageHandleJob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5696/trunk/src/network/MessageHandleJob.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3215/trunk/src/network/CMakeLists.txt
+END
+Connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4987/trunk/src/network/Connection.cpp
+END
+ClientMessageHandleJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5209/trunk/src/network/ClientMessageHandleJob.h
+END
+BaseConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5416/trunk/src/network/BaseConnection.h
+END
+MessageHandleJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5696/trunk/src/network/MessageHandleJob.h
+END
+entry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5704/trunk/src/network/entry.cpp
+END
+Connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5142/trunk/src/network/Connection.h
+END
+MessageUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4613/trunk/src/network/MessageUtils.cpp
+END

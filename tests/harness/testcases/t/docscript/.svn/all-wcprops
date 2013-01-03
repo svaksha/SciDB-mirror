@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5766/trunk/tests/harness/testcases/t/docscript
+END
+versions.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5575/trunk/tests/harness/testcases/t/docscript/versions.test
+END
+aggregates.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5766/trunk/tests/harness/testcases/t/docscript/aggregates.test
+END
+substitute.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/substitute.test
+END
+redimension.test
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5574/trunk/tests/harness/testcases/t/docscript/redimension.test
+END
+xgrid.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/xgrid.test
+END
+approxdc.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5766/trunk/tests/harness/testcases/t/docscript/approxdc.test
+END
+sample.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5431/trunk/tests/harness/testcases/t/docscript/sample.test
+END
+unpack.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5654/trunk/tests/harness/testcases/t/docscript/unpack.test
+END
+adddim.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/adddim.test
+END
+updating_and_array_versions.test
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5629/trunk/tests/harness/testcases/t/docscript/updating_and_array_versions.test
+END
+scan.test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/scan.test
+END
+apply.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/apply.test
+END
+subarray.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/subarray.test
+END
+cast.test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/cast.test
+END
+repart.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/repart.test
+END
+join.test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/join.test
+END
+slice.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/slice.test
+END
+analyze.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/analyze.test
+END
+creating_and_removing_arrays.test
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/creating_and_removing_arrays.test
+END
+getting_started_with_scidb_devel.test
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5766/trunk/tests/harness/testcases/t/docscript/getting_started_with_scidb_devel.test
+END
+loading_data.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5727/trunk/tests/harness/testcases/t/docscript/loading_data.test
+END
+rename.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5766/trunk/tests/harness/testcases/t/docscript/rename.test
+END
+build_sparse.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/build_sparse.test
+END
+variable_window.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5574/trunk/tests/harness/testcases/t/docscript/variable_window.test
+END
+avg.test
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/avg.test
+END
+setopt.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/setopt.test
+END
+changing_array_schemas.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5766/trunk/tests/harness/testcases/t/docscript/changing_array_schemas.test
+END
+show.test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/show.test
+END
+basic_array_tasks.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/basic_array_tasks.test
+END
+stdev.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5431/trunk/tests/harness/testcases/t/docscript/stdev.test
+END
+attributes.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/attributes.test
+END
+reshape.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/reshape.test
+END
+sort.test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/sort.test
+END
+redimension_store.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5574/trunk/tests/harness/testcases/t/docscript/redimension_store.test
+END
+between.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/between.test
+END
+cross.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/cross.test
+END
+attribute_rename.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/attribute_rename.test
+END
+store.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5571/trunk/tests/harness/testcases/t/docscript/store.test
+END
+remove.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/remove.test
+END
+save.test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/save.test
+END
+sum.test
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5402/trunk/tests/harness/testcases/t/docscript/sum.test
+END

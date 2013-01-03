@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4237/trunk/src/smgr/compression
+END
+ByteInputItr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4237/trunk/src/smgr/compression/ByteInputItr.cpp
+END
+ByteOutputItr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4237/trunk/src/smgr/compression/ByteOutputItr.cpp
+END
+ByteInputItr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4237/trunk/src/smgr/compression/ByteInputItr.h
+END
+ByteOutputItr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4237/trunk/src/smgr/compression/ByteOutputItr.h
+END
+BuiltinCompressors.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4237/trunk/src/smgr/compression/BuiltinCompressors.h
+END
+DictionaryEncoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4237/trunk/src/smgr/compression/DictionaryEncoding.cpp
+END
+RunLengthEncoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4237/trunk/src/smgr/compression/RunLengthEncoding.cpp
+END
+BitInputItr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4237/trunk/src/smgr/compression/BitInputItr.cpp
+END
+BitOutputItr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4237/trunk/src/smgr/compression/BitOutputItr.cpp
+END
+BitInputItr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4237/trunk/src/smgr/compression/BitInputItr.h
+END
+BitmapEncoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4237/trunk/src/smgr/compression/BitmapEncoding.cpp
+END
+BitOutputItr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4237/trunk/src/smgr/compression/BitOutputItr.h
+END
+NullSuppression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4237/trunk/src/smgr/compression/NullSuppression.cpp
+END
+DictionaryEncodingByteWise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4237/trunk/src/smgr/compression/DictionaryEncodingByteWise.cpp
+END
+Compressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4237/trunk/src/smgr/compression/Compressor.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3126/trunk/src/smgr/compression/CMakeLists.txt
+END

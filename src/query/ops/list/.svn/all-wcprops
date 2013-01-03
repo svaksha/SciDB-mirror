@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5762/trunk/src/query/ops/list
+END
+ListArrayBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5361/trunk/src/query/ops/list/ListArrayBuilder.h
+END
+LogicalList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5653/trunk/src/query/ops/list/LogicalList.cpp
+END
+PhysicalList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5762/trunk/src/query/ops/list/PhysicalList.cpp
+END
+ListArrayBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5434/trunk/src/query/ops/list/ListArrayBuilder.cpp
+END

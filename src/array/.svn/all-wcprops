@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/5773/trunk/src/array
+END
+DelegateArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5294/trunk/src/array/DelegateArray.cpp
+END
+StreamArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5294/trunk/src/array/StreamArray.cpp
+END
+ParallelAccumulatorArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5362/trunk/src/array/ParallelAccumulatorArray.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4857/trunk/src/array/CMakeLists.txt
+END
+MemArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5676/trunk/src/array/MemArray.cpp
+END
+Array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5773/trunk/src/array/Array.cpp
+END
+FileArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5226/trunk/src/array/FileArray.cpp
+END
+Metadata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5720/trunk/src/array/Metadata.cpp
+END
+ComplementArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4237/trunk/src/array/ComplementArray.cpp
+END
+RLE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5696/trunk/src/array/RLE.cpp
+END
+DBArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5516/trunk/src/array/DBArray.cpp
+END
+EmbeddedArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4351/trunk/src/array/EmbeddedArray.cpp
+END
+TupleArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5499/trunk/src/array/TupleArray.cpp
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5686/trunk/tests/harness/src
+END
+arg_separator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1262/trunk/tests/harness/src/arg_separator.cc
+END
+preparecdashreport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4237/trunk/tests/harness/src/preparecdashreport.cpp
+END
+errdb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4237/trunk/tests/harness/src/errdb.cpp
+END
+scidbtestcaseexecutor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4562/trunk/tests/harness/src/scidbtestcaseexecutor.cpp
+END
+reporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4237/trunk/tests/harness/src/reporter.cpp
+END
+xmlarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5123/trunk/tests/harness/src/xmlarchive.cpp
+END
+harness.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4935/trunk/tests/harness/src/harness.cpp
+END
+defaultexecutor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5686/trunk/tests/harness/src/defaultexecutor.cpp
+END
+cdashreportstructs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5095/trunk/tests/harness/src/cdashreportstructs.cpp
+END
+manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5095/trunk/tests/harness/src/manager.cpp
+END
+helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5404/trunk/tests/harness/src/helper.cpp
+END
+cdashreportapp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4237/trunk/tests/harness/src/cdashreportapp.cpp
+END
+Exceptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4237/trunk/tests/harness/src/Exceptions.cpp
+END
+harnesstestexecutor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4833/trunk/tests/harness/src/harnesstestexecutor.cpp
+END
+scidbtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4237/trunk/tests/harness/src/scidbtest.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4237/trunk/tests/harness/src/main.cpp
+END
+executorfactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4237/trunk/tests/harness/src/executorfactory.cpp
+END
+selfTesting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4237/trunk/tests/harness/src/selfTesting.cpp
+END
+suite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4237/trunk/tests/harness/src/suite.cpp
+END

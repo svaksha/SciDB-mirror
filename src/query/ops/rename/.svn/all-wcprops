@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5444/trunk/src/query/ops/rename
+END
+LogicalRename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5444/trunk/src/query/ops/rename/LogicalRename.cpp
+END
+PhysicalRename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5151/trunk/src/query/ops/rename/PhysicalRename.cpp
+END

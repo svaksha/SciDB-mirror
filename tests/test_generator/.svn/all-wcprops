@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4237/trunk/tests/test_generator
+END
+sparse_matrix_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4237/trunk/tests/test_generator/sparse_matrix_tests.py
+END
+SciDBTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4237/trunk/tests/test_generator/SciDBTest.py
+END
+dense_matrix_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4237/trunk/tests/test_generator/dense_matrix_tests.py
+END
+create_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4059/trunk/tests/test_generator/create_tests.py
+END

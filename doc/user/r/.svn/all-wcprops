@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5304/trunk/doc/user/r
+END
+sun.expected
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5304/trunk/doc/user/r/sun.expected
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5691/trunk/tests/harness/testcases/t/checkin/flip_n_store
+END
+select_into_4.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/select_into_4.test
+END
+select_into_6.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/select_into_6.test
+END
+flip_store_ni_04.test
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_store_ni_04.test
+END
+flip_store_newdim.test
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4537/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_store_newdim.test
+END
+flip_store_13.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_store_13.test
+END
+flip_2.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_2.test
+END
+flip_4.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_4.test
+END
+flip_6.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_6.test
+END
+flip_n_subarray.test
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4369/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_n_subarray.test
+END
+flip_8.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_8.test
+END
+flip_m1.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_m1.test
+END
+select_into_1.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/select_into_1.test
+END
+inline_flip.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4839/trunk/tests/harness/testcases/t/checkin/flip_n_store/inline_flip.test
+END
+flip_store_3.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_store_3.test
+END
+flip_m3.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_m3.test
+END
+select_into_3.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/select_into_3.test
+END
+flip_store_5.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_store_5.test
+END
+select_into_5.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5037/trunk/tests/harness/testcases/t/checkin/flip_n_store/select_into_5.test
+END
+flip_store_all.test
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4537/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_store_all.test
+END
+flip_store_rational.test
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_store_rational.test
+END
+select_into_10.test
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/select_into_10.test
+END
+flip_1.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5691/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_1.test
+END
+flip_store_14.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_store_14.test
+END
+flip_3.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_3.test
+END
+flip_5.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_5.test
+END
+flip_7.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_7.test
+END
+flip_store_threeconflicthandling.test
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5371/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_store_threeconflicthandling.test
+END
+flip_m2.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_m2.test
+END
+select_into_2.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/select_into_2.test
+END
+flip_n_thin.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4558/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_n_thin.test
+END
+flip_m4.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/flip_n_store/flip_m4.test
+END

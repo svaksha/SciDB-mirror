@@ -1,0 +1,17 @@
+--setup
+
+--test
+--start-query-logging
+
+create immutable empty array imtest <a:int64>[x=0:100,10,0, y=0:100,10,0]
+
+count(imtest)
+
+dimensions(imtest)
+
+attributes(imtest)
+
+--stop-query-logging
+--cleanup
+
+remove(imtest)

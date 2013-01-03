@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5560/trunk/tests/harness/testcases/t/checkin/newaql
+END
+join_012.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_012.test
+END
+join_004.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_004.test
+END
+join_014.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_014.test
+END
+join_006.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_006.test
+END
+sum_1.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5203/trunk/tests/harness/testcases/t/checkin/newaql/sum_1.test
+END
+join_016.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_016.test
+END
+join_008.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_008.test
+END
+sum_3.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5203/trunk/tests/harness/testcases/t/checkin/newaql/sum_3.test
+END
+select_into_1.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_1.test
+END
+select_into_3.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_3.test
+END
+select_into_5.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_5.test
+END
+select_into_7.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_7.test
+END
+select_001.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5080/trunk/tests/harness/testcases/t/checkin/newaql/select_001.test
+END
+select_into_9.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_9.test
+END
+select_003.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_003.test
+END
+aggregate_001.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5087/trunk/tests/harness/testcases/t/checkin/newaql/aggregate_001.test
+END
+window.test
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5372/trunk/tests/harness/testcases/t/checkin/newaql/window.test
+END
+aggregate_003.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5087/trunk/tests/harness/testcases/t/checkin/newaql/aggregate_003.test
+END
+select_into_10.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_10.test
+END
+aggregate_005.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5087/trunk/tests/harness/testcases/t/checkin/newaql/aggregate_005.test
+END
+allversions_delta.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/allversions_delta.test
+END
+select_into_12.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_12.test
+END
+regrid.test
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5235/trunk/tests/harness/testcases/t/checkin/newaql/regrid.test
+END
+aggregate_007.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/aggregate_007.test
+END
+select_into_14.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_14.test
+END
+aggregate_009.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5372/trunk/tests/harness/testcases/t/checkin/newaql/aggregate_009.test
+END
+count_7.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5203/trunk/tests/harness/testcases/t/checkin/newaql/count_7.test
+END
+join_001.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_001.test
+END
+join_011.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_011.test
+END
+join_003.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_003.test
+END
+join_013.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_013.test
+END
+join_005.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_005.test
+END
+join_015.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_015.test
+END
+join_007.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_007.test
+END
+join_017.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_017.test
+END
+join_009.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_009.test
+END
+select_into_2.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_2.test
+END
+select_into_4.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_4.test
+END
+insert_into.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5560/trunk/tests/harness/testcases/t/checkin/newaql/insert_into.test
+END
+select_into_6.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_6.test
+END
+select_into_8.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_8.test
+END
+select_002.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5080/trunk/tests/harness/testcases/t/checkin/newaql/select_002.test
+END
+orderby.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5275/trunk/tests/harness/testcases/t/checkin/newaql/orderby.test
+END
+aggregate_010.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5372/trunk/tests/harness/testcases/t/checkin/newaql/aggregate_010.test
+END
+aggregate_002.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5087/trunk/tests/harness/testcases/t/checkin/newaql/aggregate_002.test
+END
+aggregate_004.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/aggregate_004.test
+END
+select_into_11.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_11.test
+END
+aggregate_006.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5087/trunk/tests/harness/testcases/t/checkin/newaql/aggregate_006.test
+END
+select_into_13.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_13.test
+END
+aggregate_008.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5235/trunk/tests/harness/testcases/t/checkin/newaql/aggregate_008.test
+END
+select_into_15.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/select_into_15.test
+END
+join_010.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_010.test
+END
+join_002.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/t/checkin/newaql/join_002.test
+END

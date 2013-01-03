@@ -1,0 +1,97 @@
+10
+
+dir
+5777
+http://svn.scidb.org/svn/trunk/tests/harness/testcases/r
+http://svn.scidb.org/svn
+
+
+
+2012-10-30T21:45:57.136713Z
+5773
+apoliakov
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+58f552f0-4ebc-4234-bb38-843f83eedd44
+
+injecterror
+dir
+
+newaql
+dir
+
+aql_misc
+dir
+
+data_model
+dir
+
+docscript
+dir
+
+perf
+dir
+
+repart
+dir
+
+rankquantile
+dir
+
+expression
+dir
+
+pload
+dir
+
+compression
+dir
+
+negative
+dir
+
+checkin
+dir
+
+fits
+dir
+
+doc
+dir
+
+iqueryabort
+dir
+
+aggregates
+dir
+
+client
+dir
+
+aql_neg_misc
+dir
+
+other
+dir
+
+scalapack
+dir
+
+update
+dir
+
+flip_n_store
+dir
+

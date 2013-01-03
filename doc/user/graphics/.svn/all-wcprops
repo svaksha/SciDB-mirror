@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5766/trunk/doc/user/graphics
+END
+scidb_arch.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5766/trunk/doc/user/graphics/scidb_arch.png
+END
+binary_load_file.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5134/trunk/doc/user/graphics/binary_load_file.png
+END
+desired_array_intensity.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5134/trunk/doc/user/graphics/desired_array_intensity.png
+END
+slice.odg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4903/trunk/doc/user/graphics/slice.odg
+END
+window_aggregates.odg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4903/trunk/doc/user/graphics/window_aggregates.odg
+END
+slice_3d.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4650/trunk/doc/user/graphics/slice_3d.png
+END
+infty.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4082/trunk/doc/user/graphics/infty.png
+END
+prerelease_watermark.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4082/trunk/doc/user/graphics/prerelease_watermark.pdf
+END
+p4_scidb_logo.odg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4331/trunk/doc/user/graphics/p4_scidb_logo.odg
+END
+array_model_with_values.odg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4903/trunk/doc/user/graphics/array_model_with_values.odg
+END
+lc_nu.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4082/trunk/doc/user/graphics/lc_nu.png
+END
+window_aggregates.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4367/trunk/doc/user/graphics/window_aggregates.png
+END
+lc_gamma.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4082/trunk/doc/user/graphics/lc_gamma.png
+END
+array_data_model_chunks.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4082/trunk/doc/user/graphics/array_data_model_chunks.png
+END
+grid_aggregates.odg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4903/trunk/doc/user/graphics/grid_aggregates.odg
+END
+SciDB_query_arch.odp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4904/trunk/doc/user/graphics/SciDB_query_arch.odp
+END
+opaque_load_overview.odg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5134/trunk/doc/user/graphics/opaque_load_overview.odg
+END
+parallel_load_overview.odg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5727/trunk/doc/user/graphics/parallel_load_overview.odg
+END
+binary_load_array.odg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5687/trunk/doc/user/graphics/binary_load_array.odg
+END
+p4_scidb_logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4082/trunk/doc/user/graphics/p4_scidb_logo.png
+END
+chunked_dimensions.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4842/trunk/doc/user/graphics/chunked_dimensions.png
+END
+parallel_load_overview_simplified.odg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5727/trunk/doc/user/graphics/parallel_load_overview_simplified.odg
+END
+binary_load_file_simplified.odg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5718/trunk/doc/user/graphics/binary_load_file_simplified.odg
+END
+lc_sigma.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4082/trunk/doc/user/graphics/lc_sigma.png
+END
+grid_aggregates.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4367/trunk/doc/user/graphics/grid_aggregates.png
+END
+opaque_load_overview.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5134/trunk/doc/user/graphics/opaque_load_overview.png
+END
+desired_array_olympics.odg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5134/trunk/doc/user/graphics/desired_array_olympics.odg
+END
+parallel_load_overview.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5727/trunk/doc/user/graphics/parallel_load_overview.png
+END
+binary_load_array.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5687/trunk/doc/user/graphics/binary_load_array.png
+END
+sparse_load.odg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4903/trunk/doc/user/graphics/sparse_load.odg
+END
+gamma.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4082/trunk/doc/user/graphics/gamma.png
+END
+SciDB_Architecture.odp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4904/trunk/doc/user/graphics/SciDB_Architecture.odp
+END
+scidb_architecture.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4246/trunk/doc/user/graphics/scidb_architecture.png
+END
+parallel_load_overview_simplified.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5727/trunk/doc/user/graphics/parallel_load_overview_simplified.png
+END
+array_data_model.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4082/trunk/doc/user/graphics/array_data_model.png
+END
+binary_load_file_simplified.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5718/trunk/doc/user/graphics/binary_load_file_simplified.png
+END
+desired_array_olympics.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5134/trunk/doc/user/graphics/desired_array_olympics.png
+END
+sparse_load.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4745/trunk/doc/user/graphics/sparse_load.png
+END
+cumsum.odg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4903/trunk/doc/user/graphics/cumsum.odg
+END
+binary_load_overview.odg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5727/trunk/doc/user/graphics/binary_load_overview.odg
+END
+cluster_data_distribution.odg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4903/trunk/doc/user/graphics/cluster_data_distribution.odg
+END
+lc_mu.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4082/trunk/doc/user/graphics/lc_mu.png
+END
+p4_logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4082/trunk/doc/user/graphics/p4_logo.png
+END
+geomcdf.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4082/trunk/doc/user/graphics/geomcdf.png
+END
+scidb_logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4082/trunk/doc/user/graphics/scidb_logo.png
+END
+csv_load_overview.odg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5727/trunk/doc/user/graphics/csv_load_overview.odg
+END
+scidb_arch.odg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5766/trunk/doc/user/graphics/scidb_arch.odg
+END
+binomialcdf.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4082/trunk/doc/user/graphics/binomialcdf.png
+END
+binary_load_file.odg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5134/trunk/doc/user/graphics/binary_load_file.odg
+END
+desired_array_intensity.odg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5134/trunk/doc/user/graphics/desired_array_intensity.odg
+END
+binary_load_overview.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5727/trunk/doc/user/graphics/binary_load_overview.png
+END
+csv_load_overview.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5727/trunk/doc/user/graphics/csv_load_overview.png
+END
+join_redimension.odg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4082/trunk/doc/user/graphics/join_redimension.odg
+END

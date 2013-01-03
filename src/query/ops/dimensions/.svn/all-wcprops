@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5444/trunk/src/query/ops/dimensions
+END
+LogicalDimensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5444/trunk/src/query/ops/dimensions/LogicalDimensions.cpp
+END
+PhysicalDimensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5444/trunk/src/query/ops/dimensions/PhysicalDimensions.cpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5539/trunk/src/query/ops/rankquantile
+END
+PhysicalAverageRank.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5454/trunk/src/query/ops/rankquantile/PhysicalAverageRank.cpp
+END
+RankCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5154/trunk/src/query/ops/rankquantile/RankCommon.cpp
+END
+LogicalRank.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5473/trunk/src/query/ops/rankquantile/LogicalRank.cpp
+END
+PhysicalRank.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5499/trunk/src/query/ops/rankquantile/PhysicalRank.cpp
+END
+RankCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5499/trunk/src/query/ops/rankquantile/RankCommon.h
+END
+LogicalQuantile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5511/trunk/src/query/ops/rankquantile/LogicalQuantile.cpp
+END
+PhysicalQuantile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5539/trunk/src/query/ops/rankquantile/PhysicalQuantile.cpp
+END
+LogicalAverageRank.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5473/trunk/src/query/ops/rankquantile/LogicalAverageRank.cpp
+END

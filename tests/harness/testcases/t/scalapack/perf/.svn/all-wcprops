@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5738/trunk/tests/harness/testcases/t/scalapack/perf
+END
+10_gemm_1_S.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5726/trunk/tests/harness/testcases/t/scalapack/perf/10_gemm_1_S.test
+END
+30_svd_doSvd_2_M.test
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5738/trunk/tests/harness/testcases/t/scalapack/perf/30_svd_doSvd_2_M.test
+END
+30_svd_doSvd_1_S.test
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5738/trunk/tests/harness/testcases/t/scalapack/perf/30_svd_doSvd_1_S.test
+END

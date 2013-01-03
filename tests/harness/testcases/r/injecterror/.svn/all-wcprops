@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror
+END
+inject_4_rename.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror/inject_4_rename.expected
+END
+inject_1_store.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror/inject_1_store.expected
+END
+inject_2_store.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror/inject_2_store.expected
+END
+inject_4_mapping.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror/inject_4_mapping.expected
+END
+inject_4_store.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror/inject_4_store.expected
+END
+inject_1_redim.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror/inject_1_redim.expected
+END
+inject_2_redim.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror/inject_2_redim.expected
+END
+inject_1_update.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror/inject_1_update.expected
+END
+inject_2_update.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror/inject_2_update.expected
+END
+inject_4_redim.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/injecterror/inject_4_redim.expected
+END

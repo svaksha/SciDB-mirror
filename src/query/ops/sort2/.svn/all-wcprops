@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5444/trunk/src/query/ops/sort2
+END
+MergeSortArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5294/trunk/src/query/ops/sort2/MergeSortArray.h
+END
+LogicalSort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5444/trunk/src/query/ops/sort2/LogicalSort.cpp
+END
+PhysicalSort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5396/trunk/src/query/ops/sort2/PhysicalSort.cpp
+END
+MergeSortArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5294/trunk/src/query/ops/sort2/MergeSortArray.cpp
+END

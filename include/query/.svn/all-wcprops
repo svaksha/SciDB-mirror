@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5769/trunk/include/query
+END
+FunctionDescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4360/trunk/include/query/FunctionDescription.h
+END
+Network.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4562/trunk/include/query/Network.h
+END
+FunctionLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5380/trunk/include/query/FunctionLibrary.h
+END
+LogicalExpression.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4562/trunk/include/query/LogicalExpression.h
+END
+Statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4237/trunk/include/query/Statistics.h
+END
+Operator.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5769/trunk/include/query/Operator.h
+END
+UDT.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5720/trunk/include/query/UDT.h
+END
+Expression.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4626/trunk/include/query/Expression.h
+END
+OperatorLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4237/trunk/include/query/OperatorLibrary.h
+END
+Query.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5407/trunk/include/query/Query.h
+END
+Aggregate.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5652/trunk/include/query/Aggregate.h
+END
+TileFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5541/trunk/include/query/TileFunctions.h
+END
+TypeSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5720/trunk/include/query/TypeSystem.h
+END
+UDT.d
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2894/trunk/include/query/UDT.d
+END

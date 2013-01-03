@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5720/trunk/examples/point
+END
+point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5720/trunk/examples/point/point.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4072/trunk/examples/point/CMakeLists.txt
+END
+functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5720/trunk/examples/point/functions.h
+END

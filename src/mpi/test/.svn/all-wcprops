@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5730/trunk/src/mpi/test
+END
+MPITestLogical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5730/trunk/src/mpi/test/MPITestLogical.cpp
+END
+MPITestPhysical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5730/trunk/src/mpi/test/MPITestPhysical.cpp
+END

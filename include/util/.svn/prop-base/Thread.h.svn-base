@@ -1,0 +1,14 @@
+K 13
+svn:mergeinfo
+V 671
+/branches/aql_branch/include/util/Thread.h:902-922
+/branches/b_0_5_release/include/util/Thread.h:452,459-461,471,475,477,493,496-497,518,521,525,532-536,538,542-552,554-589,592-598,602-667,669-688,690,692-736,741-756,857-868
+/branches/b_0_75_release/include/util/Thread.h:1522-1523,1525,1556
+/branches/b_0_75_release/src/common/include/Thread.h:1516
+/branches/b_0_8_release/include/util/Thread.h:1716
+/branches/b_12_3_release/include/util/Thread.h:4692
+/branches/empty_tag_hiding/include/util/Thread.h:3476-3509
+/branches/iquery-shell-improvement/include/util/Thread.h:2363-2365
+/branches/lyra/include/util/Thread.h:4784-5099,5110-5111
+/trunk/include/util/Thread.h:2-1490
+END

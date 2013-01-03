@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5444/trunk/src/query/ops/sample
+END
+LogicalSample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5444/trunk/src/query/ops/sample/LogicalSample.cpp
+END
+PhysicalSample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5294/trunk/src/query/ops/sample/PhysicalSample.cpp
+END

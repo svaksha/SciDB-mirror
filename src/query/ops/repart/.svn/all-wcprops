@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5725/trunk/src/query/ops/repart
+END
+LogicalRepart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5577/trunk/src/query/ops/repart/LogicalRepart.cpp
+END
+PhysicalRepart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5565/trunk/src/query/ops/repart/PhysicalRepart.cpp
+END
+RepartArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5725/trunk/src/query/ops/repart/RepartArray.cpp
+END
+RepartArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5565/trunk/src/query/ops/repart/RepartArray.h
+END

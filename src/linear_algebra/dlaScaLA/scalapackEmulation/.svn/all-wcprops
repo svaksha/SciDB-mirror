@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5754/trunk/src/linear_algebra/dlaScaLA/scalapackEmulation
+END
+infog2l.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/scalapackEmulation/infog2l.f
+END
+pdelset.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/scalapackEmulation/pdelset.f
+END
+lsame.f
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/scalapackEmulation/lsame.f
+END
+blacs_info_fake.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5754/trunk/src/linear_algebra/dlaScaLA/scalapackEmulation/blacs_info_fake.c
+END
+descinit.f
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/scalapackEmulation/descinit.f
+END
+scalapackEmulation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/scalapackEmulation/scalapackEmulation.hpp
+END
+numroc.f
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/scalapackEmulation/numroc.f
+END
+pdelget.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/scalapackEmulation/pdelget.f
+END
+pxerbla.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/scalapackEmulation/pxerbla.f
+END

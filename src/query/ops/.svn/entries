@@ -1,0 +1,312 @@
+10
+
+dir
+5777
+http://svn.scidb.org/svn/trunk/src/query/ops
+http://svn.scidb.org/svn
+
+
+
+2012-10-30T16:22:23.172568Z
+5769
+apoliakov
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+58f552f0-4ebc-4234-bb38-843f83eedd44
+
+diskinfo
+dir
+
+versions
+dir
+
+lookup
+dir
+
+reverse
+dir
+
+variable_window
+dir
+
+xgrid
+dir
+
+BuildInOps.inc
+file
+
+
+
+
+2012-11-01T00:03:15.047686Z
+1d285038b1d9e7654738fd6082c2d5a5
+2012-10-08T16:54:09.108197Z
+5614
+apoliakov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8936
+
+adddim
+dir
+
+scan
+dir
+
+mstat
+dir
+
+var
+dir
+
+reduce_distro
+dir
+
+remove
+dir
+
+create_array
+dir
+
+analyze
+dir
+
+materialize
+dir
+
+sg
+dir
+
+setopt
+dir
+
+echo
+dir
+
+show
+dir
+
+sample
+dir
+
+unpack
+dir
+
+between
+dir
+
+cross
+dir
+
+explainLogical
+dir
+
+repart
+dir
+
+save
+dir
+
+rankquantile
+dir
+
+join
+dir
+
+input
+dir
+
+normalize
+dir
+
+allversions
+dir
+
+thin
+dir
+
+load_library
+dir
+
+insert
+dir
+
+unload_library
+dir
+
+project
+dir
+
+rename
+dir
+
+sort2
+dir
+
+list
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-11-01T00:03:15.047686Z
+401031c5bbc3c26359121d348be5c41d
+2012-10-19T17:17:39.735194Z
+5691
+apoliakov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7051
+
+min
+dir
+
+cancel
+dir
+
+filter
+dir
+
+max
+dir
+
+apply
+dir
+
+sort
+dir
+
+subarray
+dir
+
+help
+dir
+
+cast
+dir
+
+store
+dir
+
+explainPhysical
+dir
+
+slice
+dir
+
+build
+dir
+
+sum
+dir
+
+concat
+dir
+
+cross_join
+dir
+
+dimensions
+dir
+
+aggregates
+dir
+
+average
+dir
+
+inverse
+dir
+
+substitute
+dir
+
+redimension
+dir
+
+build_sparse
+dir
+
+transpose
+dir
+
+multiply
+dir
+
+load
+dir
+
+attributes
+dir
+
+reshape
+dir
+
+count
+dir
+
+attribute_rename
+dir
+
+bernoulli
+dir
+
+deldim
+dir
+
+merge
+dir
+

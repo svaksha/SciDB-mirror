@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5444/trunk/src/query/ops/bernoulli
+END
+NumericOps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4833/trunk/src/query/ops/bernoulli/NumericOps.cpp
+END
+LogicalBernoulli.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5444/trunk/src/query/ops/bernoulli/LogicalBernoulli.cpp
+END
+PhysicalBernoulli.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5294/trunk/src/query/ops/bernoulli/PhysicalBernoulli.cpp
+END
+NumericOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4237/trunk/src/query/ops/bernoulli/NumericOps.h
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4929/trunk/src/capi/pythonexamples
+END
+test2.csv
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2594/trunk/src/capi/pythonexamples/test2.csv
+END
+pythonsample2.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4562/trunk/src/capi/pythonexamples/pythonsample2.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2851/trunk/src/capi/pythonexamples/README
+END
+sample.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4923/trunk/src/capi/pythonexamples/sample.py.in
+END
+sample2.csv
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4923/trunk/src/capi/pythonexamples/sample2.csv
+END
+doTests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2721/trunk/src/capi/pythonexamples/doTests.sh
+END
+pythonsample4.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4239/trunk/src/capi/pythonexamples/pythonsample4.py
+END
+sample2.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4929/trunk/src/capi/pythonexamples/sample2.py.in
+END
+simplearray.data
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2503/trunk/src/capi/pythonexamples/simplearray.data
+END
+run_pythonsample2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2719/trunk/src/capi/pythonexamples/run_pythonsample2.sh
+END
+log4cxx.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2503/trunk/src/capi/pythonexamples/log4cxx.properties
+END
+run_pythonsample4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2719/trunk/src/capi/pythonexamples/run_pythonsample4.sh
+END
+run_pythonsample5.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4239/trunk/src/capi/pythonexamples/run_pythonsample5.sh
+END

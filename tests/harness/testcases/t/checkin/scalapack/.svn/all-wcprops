@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5764/trunk/tests/harness/testcases/t/checkin/scalapack
+END
+10_gemm.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5764/trunk/tests/harness/testcases/t/checkin/scalapack/10_gemm.test
+END
+32_svd_driverXS.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5745/trunk/tests/harness/testcases/t/checkin/scalapack/32_svd_driverXS.test
+END
+21_svd_neg.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5670/trunk/tests/harness/testcases/t/checkin/scalapack/21_svd_neg.test
+END
+19_svd_inferSchema.test
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5673/trunk/tests/harness/testcases/t/checkin/scalapack/19_svd_inferSchema.test
+END
+30_svd_doSvd_verySmall.test
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5738/trunk/tests/harness/testcases/t/checkin/scalapack/30_svd_doSvd_verySmall.test
+END
+11_gemm_neg.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5647/trunk/tests/harness/testcases/t/checkin/scalapack/11_gemm_neg.test
+END
+31_svd_doSvdWithMetrics_verySmall.test
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5602/trunk/tests/harness/testcases/t/checkin/scalapack/31_svd_doSvdWithMetrics_verySmall.test
+END
+20_svd_oldVals.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5689/trunk/tests/harness/testcases/t/checkin/scalapack/20_svd_oldVals.test
+END

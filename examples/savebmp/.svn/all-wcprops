@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5370/trunk/examples/savebmp
+END
+plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5370/trunk/examples/savebmp/plugin.cpp
+END
+LogicalSaveBmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5370/trunk/examples/savebmp/LogicalSaveBmp.cpp
+END
+PhysicalSaveBmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5370/trunk/examples/savebmp/PhysicalSaveBmp.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5370/trunk/examples/savebmp/CMakeLists.txt
+END

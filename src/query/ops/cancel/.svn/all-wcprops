@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5444/trunk/src/query/ops/cancel
+END
+LogicalCancel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5444/trunk/src/query/ops/cancel/LogicalCancel.cpp
+END
+PhysicalCancel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4237/trunk/src/query/ops/cancel/PhysicalCancel.cpp
+END

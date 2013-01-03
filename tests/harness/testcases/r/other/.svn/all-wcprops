@@ -1,0 +1,815 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other
+END
+substitute_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/substitute_3.expected
+END
+unbounded_copy_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/unbounded_copy_3.expected
+END
+window_regrid2_udt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/window_regrid2_udt.expected
+END
+unbounded_load_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/unbounded_load_1.expected
+END
+analyze.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/analyze.expected
+END
+insert_02.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/insert_02.expected
+END
+binary_load6_aql.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/binary_load6_aql.expected
+END
+join_merge_cross3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/join_merge_cross3.expected
+END
+opr_n_m3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_m3.expected
+END
+distinct_count4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/distinct_count4.expected
+END
+immutable_merge_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_merge_1.expected
+END
+analyze_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/analyze_2.expected
+END
+immutable_append_1a.expected
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_append_1a.expected
+END
+thin_8.expected
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/thin_8.expected
+END
+iquery_precision.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/iquery_precision.expected
+END
+complex_query_sparse1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/complex_query_sparse1.expected
+END
+cross_sparse4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/cross_sparse4.expected
+END
+list_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4562/trunk/tests/harness/testcases/r/other/list_1.expected
+END
+immutable_copy_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_copy_3.expected
+END
+join_array.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/join_array.expected
+END
+binary_opaque.expected
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/binary_opaque.expected
+END
+immutable_load_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_load_1.expected
+END
+create_and_bernoulli.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/create_and_bernoulli.expected
+END
+binary_load1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5628/trunk/tests/harness/testcases/r/other/binary_load1.expected
+END
+join_merge_cross4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/join_merge_cross4.expected
+END
+operator_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/operator_1.expected
+END
+opr_n_m4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_m4.expected
+END
+immutable_merge_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_merge_2.expected
+END
+large_matrix_multiply_d_d.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/large_matrix_multiply_d_d.expected
+END
+analyze_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/analyze_3.expected
+END
+immutable_copy_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_copy_4.expected
+END
+complex_query.expected
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/complex_query.expected
+END
+opr_n_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_1.expected
+END
+immutable_load_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_load_2.expected
+END
+internals.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5149/trunk/tests/harness/testcases/r/other/internals.expected
+END
+merge_sp.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/merge_sp.expected
+END
+basic_matrix_transpose.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/basic_matrix_transpose.expected
+END
+binary_load2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/binary_load2.expected
+END
+unbounded_update_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/unbounded_update_1.expected
+END
+concat.expected
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/concat.expected
+END
+insert_04.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/insert_04.expected
+END
+complex_query_sparse.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/complex_query_sparse.expected
+END
+join_merge_cross5.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/join_merge_cross5.expected
+END
+immutable_binary.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_binary.expected
+END
+unbounded_append_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/unbounded_append_1.expected
+END
+UB_basics.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/UB_basics.expected
+END
+create_and_filter.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/create_and_filter.expected
+END
+opr_n_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_2.expected
+END
+immutable_load_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_load_3.expected
+END
+opr_n_e_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_e_1.expected
+END
+immutable_update_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_update_1.expected
+END
+literal_fix.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/literal_fix.expected
+END
+csv2scidb_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/csv2scidb_1.expected
+END
+binary_load5_aql.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/binary_load5_aql.expected
+END
+binary_load3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/binary_load3.expected
+END
+insert_05.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/insert_05.expected
+END
+literal_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/literal_1.expected
+END
+query_format.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/query_format.expected
+END
+join_merge_cross6.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/join_merge_cross6.expected
+END
+normalize_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/normalize_1.expected
+END
+unbounded_merge_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/unbounded_merge_1.expected
+END
+fixed_string.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/fixed_string.expected
+END
+immutable_append_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_append_1.expected
+END
+cross_agg1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/cross_agg1.expected
+END
+repart_setopt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5506/trunk/tests/harness/testcases/r/other/repart_setopt.expected
+END
+unbounded_append_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/unbounded_append_2.expected
+END
+NA.expected
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/NA.expected
+END
+opr_n_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_3.expected
+END
+python_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4911/trunk/tests/harness/testcases/r/other/python_1.expected
+END
+iquery_5.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/iquery_5.expected
+END
+opr_n_e_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_e_2.expected
+END
+immutable_update_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_update_2.expected
+END
+insert_06.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/insert_06.expected
+END
+literal_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/literal_2.expected
+END
+create_and_lookup.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/create_and_lookup.expected
+END
+large_matrix_multiply_i64_i64.expected
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/large_matrix_multiply_i64_i64.expected
+END
+between_sub1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/between_sub1.expected
+END
+binary_loader_args_aql.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/binary_loader_args_aql.expected
+END
+window_regrid3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/window_regrid3.expected
+END
+immutable_append_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_append_2.expected
+END
+cross_agg2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/cross_agg2.expected
+END
+join_merge_cross_unbounded.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/join_merge_cross_unbounded.expected
+END
+basic_matrix_inverse.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/basic_matrix_inverse.expected
+END
+opr_n_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_4.expected
+END
+opr_n_e_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_e_3.expected
+END
+iquery_6.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/iquery_6.expected
+END
+insert_07.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/insert_07.expected
+END
+distinct_count1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/distinct_count1.expected
+END
+literal_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/literal_3.expected
+END
+insert_udt_03.expected
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/insert_udt_03.expected
+END
+between_sub2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/between_sub2.expected
+END
+unbounded_create_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/unbounded_create_1.expected
+END
+merge_data_array.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/merge_data_array.expected
+END
+cross_sparse1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/cross_sparse1.expected
+END
+immutable_append_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_append_3.expected
+END
+cross_agg3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/cross_agg3.expected
+END
+redim_NID_UB_misc.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5479/trunk/tests/harness/testcases/r/other/redim_NID_UB_misc.expected
+END
+unbounded_copy_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/unbounded_copy_1.expected
+END
+list_nodes.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/list_nodes.expected
+END
+opr_n_e_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_e_4.expected
+END
+basic_matrix_multiply.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/basic_matrix_multiply.expected
+END
+binary_load4_aql.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/binary_load4_aql.expected
+END
+join_cross_array.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/join_cross_array.expected
+END
+loadlib.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5121/trunk/tests/harness/testcases/r/other/loadlib.expected
+END
+join_merge_cross1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/join_merge_cross1.expected
+END
+opr_n_m1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_m1.expected
+END
+distinct_count2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/distinct_count2.expected
+END
+literal_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/literal_4.expected
+END
+immutable_create_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_create_1.expected
+END
+binary_load8_udt_aql.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/binary_load8_udt_aql.expected
+END
+binary_loader_unlimited.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/binary_loader_unlimited.expected
+END
+basic_matrix_normalize.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/basic_matrix_normalize.expected
+END
+binary_loader_args.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/binary_loader_args.expected
+END
+cross_sparse2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/cross_sparse2.expected
+END
+immutable_append_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_append_4.expected
+END
+immutable_copy_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_copy_1.expected
+END
+precision_test.expected
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/precision_test.expected
+END
+merge_array.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/merge_array.expected
+END
+NID_basics.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/NID_basics.expected
+END
+create_and_between.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/create_and_between.expected
+END
+unbounded_copy_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/unbounded_copy_2.expected
+END
+insert_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/insert_01.expected
+END
+join_merge_cross2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/join_merge_cross2.expected
+END
+binary_loader.expected
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5628/trunk/tests/harness/testcases/r/other/binary_loader.expected
+END
+opr_n_m2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/opr_n_m2.expected
+END
+bernoulli_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/bernoulli_2.expected
+END
+distinct_count3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/distinct_count3.expected
+END
+immutable_create_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_create_2.expected
+END
+analyze_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/analyze_1.expected
+END
+create_and_load.expected
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/create_and_load.expected
+END
+binary_load9_udt_aql.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/binary_load9_udt_aql.expected
+END
+binary_load7_udt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/binary_load7_udt.expected
+END
+cross_sparse3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5708/trunk/tests/harness/testcases/r/other/cross_sparse3.expected
+END
+immutable_copy_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/immutable_copy_2.expected
+END
+match.expected
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/other/match.expected
+END

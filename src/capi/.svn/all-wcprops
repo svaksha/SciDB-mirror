@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5740/trunk/src/capi
+END
+scidbapi.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5437/trunk/src/capi/scidbapi.py.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5186/trunk/src/capi/CMakeLists.txt
+END
+export.map
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3208/trunk/src/capi/export.map
+END
+scidbpython.i
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5405/trunk/src/capi/scidbpython.i
+END
+SciDBRemote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5740/trunk/src/capi/SciDBRemote.cpp
+END

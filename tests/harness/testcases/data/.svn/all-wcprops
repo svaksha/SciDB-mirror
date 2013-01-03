@@ -1,0 +1,1085 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5682/trunk/tests/harness/testcases/data
+END
+p4_quantile_test1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/data/p4_quantile_test1.txt
+END
+multiply7.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/multiply7.txt
+END
+multiply9.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/multiply9.txt
+END
+teeth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/teeth.txt
+END
+M4x4_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/M4x4_1.txt
+END
+spsp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5220/trunk/tests/harness/testcases/data/spsp.txt
+END
+und.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4835/trunk/tests/harness/testcases/data/und.txt
+END
+append3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/append3.txt
+END
+sm10.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5618/trunk/tests/harness/testcases/data/sm10.csv
+END
+redim_comp1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4525/trunk/tests/harness/testcases/data/redim_comp1.txt
+END
+iquery_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/iquery_2.txt
+END
+rhs100_ch100.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/rhs100_ch100.dat
+END
+iquery_4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/iquery_4.txt
+END
+vector.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/vector.txt
+END
+mult2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/mult2.txt
+END
+mult4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/mult4.txt
+END
+overlap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5124/trunk/tests/harness/testcases/data/overlap.txt
+END
+A2_err.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/A2_err.txt
+END
+redim_data2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4479/trunk/tests/harness/testcases/data/redim_data2.txt
+END
+svd_test1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5473/trunk/tests/harness/testcases/data/svd_test1.txt
+END
+svd_test3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5473/trunk/tests/harness/testcases/data/svd_test3.txt
+END
+expr2_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/expr2_1.txt
+END
+test3_def.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/test3_def.txt
+END
+dense2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/dense2.txt
+END
+simplearray.data
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4899/trunk/tests/harness/testcases/data/simplearray.data
+END
+unbound_ins.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5508/trunk/tests/harness/testcases/data/unbound_ins.txt
+END
+threed_cross.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4789/trunk/tests/harness/testcases/data/threed_cross.txt
+END
+longstring.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5178/trunk/tests/harness/testcases/data/longstring.txt
+END
+null_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_1.txt
+END
+vector_str.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/vector_str.txt
+END
+simple01a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1417/trunk/tests/harness/testcases/data/simple01a.txt
+END
+redimension_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/redimension_1.txt
+END
+null_3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_3.txt
+END
+simple01c.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1417/trunk/tests/harness/testcases/data/simple01c.txt
+END
+null_5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_5.txt
+END
+null_7.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_7.txt
+END
+null_9.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_9.txt
+END
+mult_sp_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/mult_sp_1.txt
+END
+sky.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5135/trunk/tests/harness/testcases/data/sky.txt
+END
+v10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/v10.txt
+END
+xyz_sparse.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4603/trunk/tests/harness/testcases/data/xyz_sparse.txt
+END
+null_10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_10.txt
+END
+null_12.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_12.txt
+END
+null_14.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_14.txt
+END
+csv2scidb_1.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4417/trunk/tests/harness/testcases/data/csv2scidb_1.csv
+END
+null_16.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_16.txt
+END
+join1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/join1.txt
+END
+csv2scidb_3.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4444/trunk/tests/harness/testcases/data/csv2scidb_3.csv
+END
+empty_s.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/empty_s.txt
+END
+null_18.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_18.txt
+END
+sm7.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5618/trunk/tests/harness/testcases/data/sm7.csv
+END
+sm9.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5618/trunk/tests/harness/testcases/data/sm9.csv
+END
+adc_sparse1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5081/trunk/tests/harness/testcases/data/adc_sparse1.txt
+END
+ub_join.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4777/trunk/tests/harness/testcases/data/ub_join.txt
+END
+us_presidents.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/us_presidents.txt
+END
+quant.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/quant.txt
+END
+M4x4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/M4x4.txt
+END
+unbounded_cross.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4789/trunk/tests/harness/testcases/data/unbounded_cross.txt
+END
+agg_load.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/data/agg_load.txt
+END
+test2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/test2.txt
+END
+unbounded_empty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3950/trunk/tests/harness/testcases/data/unbounded_empty.txt
+END
+adc1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5081/trunk/tests/harness/testcases/data/adc1.txt
+END
+un2d.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4835/trunk/tests/harness/testcases/data/un2d.txt
+END
+NID_TS_Data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4448/trunk/tests/harness/testcases/data/NID_TS_Data.txt
+END
+sort_nan_null_inf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5214/trunk/tests/harness/testcases/data/sort_nan_null_inf.txt
+END
+threed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4777/trunk/tests/harness/testcases/data/threed.txt
+END
+expr1_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/expr1_1.txt
+END
+redimension_ts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4205/trunk/tests/harness/testcases/data/redimension_ts.txt
+END
+compression1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/compression1.txt
+END
+evil_matrix.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5229/trunk/tests/harness/testcases/data/evil_matrix.txt
+END
+analyze2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4603/trunk/tests/harness/testcases/data/analyze2.txt
+END
+svd_10x10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5473/trunk/tests/harness/testcases/data/svd_10x10.txt
+END
+empty_chunk.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/empty_chunk.txt
+END
+analyze4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4617/trunk/tests/harness/testcases/data/analyze4.txt
+END
+stringdims_withsubarray.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/data/stringdims_withsubarray.txt
+END
+analyze6.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4617/trunk/tests/harness/testcases/data/analyze6.txt
+END
+analyze8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4617/trunk/tests/harness/testcases/data/analyze8.txt
+END
+nan1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5252/trunk/tests/harness/testcases/data/nan1.txt
+END
+NID_Lookup_Keys.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4448/trunk/tests/harness/testcases/data/NID_Lookup_Keys.txt
+END
+expr2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/expr2.txt
+END
+adc_sparse.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5081/trunk/tests/harness/testcases/data/adc_sparse.txt
+END
+p4_quantile_test2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/data/p4_quantile_test2.txt
+END
+repart_on_empty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5192/trunk/tests/harness/testcases/data/repart_on_empty.txt
+END
+foo_null.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/foo_null.txt
+END
+A_10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/A_10.txt
+END
+sp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/sp.txt
+END
+unbound_string
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5508/trunk/tests/harness/testcases/data/unbound_string
+END
+xyz_small.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/xyz_small.txt
+END
+large_single_chunk.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/large_single_chunk.txt
+END
+mult2_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/mult2_1.txt
+END
+unbounded.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/unbounded.txt
+END
+ranking_load.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/data/ranking_load.txt
+END
+append2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/append2.txt
+END
+redimension_threeconflicthandling.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5371/trunk/tests/harness/testcases/data/redimension_threeconflicthandling.txt
+END
+M5x5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/M5x5.txt
+END
+iquery_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/iquery_1.txt
+END
+ub_binload.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/ub_binload.txt
+END
+dense.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/dense.txt
+END
+iquery_3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/iquery_3.txt
+END
+iquery_5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/iquery_5.txt
+END
+sm11_shadow.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5630/trunk/tests/harness/testcases/data/sm11_shadow.csv
+END
+mult1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/mult1.txt
+END
+mult3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/mult3.txt
+END
+UB_TS_Data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4448/trunk/tests/harness/testcases/data/UB_TS_Data.txt
+END
+vectorR2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/vectorR2.txt
+END
+nid_array.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4821/trunk/tests/harness/testcases/data/nid_array.txt
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/data.txt
+END
+redim_data1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4436/trunk/tests/harness/testcases/data/redim_data1.txt
+END
+nan.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5252/trunk/tests/harness/testcases/data/nan.txt
+END
+svd_test2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5473/trunk/tests/harness/testcases/data/svd_test2.txt
+END
+vec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/vec.txt
+END
+dense3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/dense3.txt
+END
+carinfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/carinfo.txt
+END
+sparse_insert.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5567/trunk/tests/harness/testcases/data/sparse_insert.txt
+END
+vector3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/vector3.txt
+END
+timestamps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/timestamps.txt
+END
+rat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5074/trunk/tests/harness/testcases/data/rat.txt
+END
+UB_Lookup_Keys.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4448/trunk/tests/harness/testcases/data/UB_Lookup_Keys.txt
+END
+null_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_2.txt
+END
+test.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5682/trunk/tests/harness/testcases/data/test.csv
+END
+simple01b.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1417/trunk/tests/harness/testcases/data/simple01b.txt
+END
+null_4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_4.txt
+END
+redimension_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/redimension_2.txt
+END
+null_6.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_6.txt
+END
+empty_b.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/empty_b.txt
+END
+null_8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_8.txt
+END
+empty_d.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/empty_d.txt
+END
+redim_data1_str.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4436/trunk/tests/harness/testcases/data/redim_data1_str.txt
+END
+simple01h.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1417/trunk/tests/harness/testcases/data/simple01h.txt
+END
+multicross.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4789/trunk/tests/harness/testcases/data/multicross.txt
+END
+mult_sp_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/mult_sp_2.txt
+END
+bsp1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4962/trunk/tests/harness/testcases/data/bsp1.txt
+END
+ub.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/ub.txt
+END
+catalog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5135/trunk/tests/harness/testcases/data/catalog.txt
+END
+null_11.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_11.txt
+END
+empty_n.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/empty_n.txt
+END
+substitute.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/substitute.txt
+END
+null_13.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_13.txt
+END
+null_15.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_15.txt
+END
+matdate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/matdate.txt
+END
+csv2scidb_2.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4417/trunk/tests/harness/testcases/data/csv2scidb_2.csv
+END
+abc_null.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/abc_null.txt
+END
+multiply10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/multiply10.txt
+END
+null_17.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_17.txt
+END
+vec22.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/vec22.txt
+END
+test4_NA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/test4_NA.txt
+END
+mult1_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/mult1_1.txt
+END
+null_19.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_19.txt
+END
+multi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4777/trunk/tests/harness/testcases/data/multi.txt
+END
+sp_err.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/sp_err.txt
+END
+bsparse.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4962/trunk/tests/harness/testcases/data/bsparse.txt
+END
+rosat_pspc_rdf2_3_bk1.fits
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4469/trunk/tests/harness/testcases/data/rosat_pspc_rdf2_3_bk1.fits
+END
+test1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/test1.txt
+END
+A2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/A2.txt
+END
+emp1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4388/trunk/tests/harness/testcases/data/emp1.txt
+END
+append.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/append.txt
+END
+quantile_3d.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5511/trunk/tests/harness/testcases/data/quantile_3d.txt
+END
+adc2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5081/trunk/tests/harness/testcases/data/adc2.txt
+END
+null_20.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/null_20.txt
+END
+pattern.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1131/trunk/tests/harness/testcases/data/pattern.txt
+END
+nanull2d.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5252/trunk/tests/harness/testcases/data/nanull2d.txt
+END
+a11.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/a11.txt
+END
+evec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3588/trunk/tests/harness/testcases/data/evec.txt
+END
+foo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/foo.txt
+END
+compression2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/compression2.txt
+END
+analyze1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4603/trunk/tests/harness/testcases/data/analyze1.txt
+END
+abc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5064/trunk/tests/harness/testcases/data/abc.txt
+END
+analyze3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4617/trunk/tests/harness/testcases/data/analyze3.txt
+END
+teeth_na.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4867/trunk/tests/harness/testcases/data/teeth_na.txt
+END
+vector2_R2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/vector2_R2.txt
+END
+analyze5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4617/trunk/tests/harness/testcases/data/analyze5.txt
+END
+vs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/vs.txt
+END
+join_nid.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4835/trunk/tests/harness/testcases/data/join_nid.txt
+END
+analyze7.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4617/trunk/tests/harness/testcases/data/analyze7.txt
+END
+agg_load_special.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/data/agg_load_special.txt
+END
+nan2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5252/trunk/tests/harness/testcases/data/nan2.txt
+END
+expr1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/expr1.txt
+END
+a_join.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/a_join.txt
+END
+expr3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/expr3.txt
+END
+abrload.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4024/trunk/tests/harness/testcases/data/abrload.txt
+END

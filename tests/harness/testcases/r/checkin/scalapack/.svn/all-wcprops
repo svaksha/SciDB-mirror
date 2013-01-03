@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5764/trunk/tests/harness/testcases/r/checkin/scalapack
+END
+11_gemm_neg.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5647/trunk/tests/harness/testcases/r/checkin/scalapack/11_gemm_neg.expected
+END
+31_svd_doSvdWithMetrics_verySmall.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5726/trunk/tests/harness/testcases/r/checkin/scalapack/31_svd_doSvdWithMetrics_verySmall.expected
+END
+20_svd_oldVals.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/scalapack/20_svd_oldVals.expected
+END
+10_gemm.expected
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5764/trunk/tests/harness/testcases/r/checkin/scalapack/10_gemm.expected
+END
+32_svd_driverXS.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5751/trunk/tests/harness/testcases/r/checkin/scalapack/32_svd_driverXS.expected
+END
+21_svd_neg.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5692/trunk/tests/harness/testcases/r/checkin/scalapack/21_svd_neg.expected
+END
+19_svd_inferSchema.expected
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/scalapack/19_svd_inferSchema.expected
+END
+30_svd_doSvd_verySmall.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5764/trunk/tests/harness/testcases/r/checkin/scalapack/30_svd_doSvd_verySmall.expected
+END

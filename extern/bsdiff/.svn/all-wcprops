@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4833/trunk/extern/bsdiff
+END
+bsdiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1932/trunk/extern/bsdiff/bsdiff.h
+END
+bspatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2794/trunk/extern/bsdiff/bspatch.c
+END
+bs_tests.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4833/trunk/extern/bsdiff/bs_tests.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2794/trunk/extern/bsdiff/CMakeLists.txt
+END
+bsdiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4833/trunk/extern/bsdiff/bsdiff.c
+END

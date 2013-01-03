@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5538/trunk/tests/harness/testcases/t/newaql
+END
+aggregate_010.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3574/trunk/tests/harness/testcases/t/newaql/aggregate_010.test
+END
+aggregate1.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5372/trunk/tests/harness/testcases/t/newaql/aggregate1.test
+END
+aggregate2.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5372/trunk/tests/harness/testcases/t/newaql/aggregate2.test
+END
+aggregate3.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5538/trunk/tests/harness/testcases/t/newaql/aggregate3.test
+END

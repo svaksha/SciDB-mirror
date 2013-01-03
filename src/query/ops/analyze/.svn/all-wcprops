@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5594/trunk/src/query/ops/analyze
+END
+PhysicalAnalyze.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4562/trunk/src/query/ops/analyze/PhysicalAnalyze.h
+END
+DistinctCounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5594/trunk/src/query/ops/analyze/DistinctCounter.h
+END
+AnalyzeAggregate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5594/trunk/src/query/ops/analyze/AnalyzeAggregate.cpp
+END
+LogicalApproxDC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5579/trunk/src/query/ops/analyze/LogicalApproxDC.cpp
+END
+LogicalAnalyze.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5444/trunk/src/query/ops/analyze/LogicalAnalyze.cpp
+END
+AnalyzeAggregate.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5004/trunk/src/query/ops/analyze/AnalyzeAggregate.h
+END
+PhysicalAnalyze.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4953/trunk/src/query/ops/analyze/PhysicalAnalyze.cpp
+END

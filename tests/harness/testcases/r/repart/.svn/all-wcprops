@@ -1,0 +1,881 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5757/trunk/tests/harness/testcases/r/repart
+END
+x-size_aligned_decrease-overlap_add-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_add-gap_available.expected
+END
+x-size_aligned_increase-overlap_decrease-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_decrease-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_none-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_none-gap_available.expected
+END
+x-size_not_aligned-overlap_add-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_add-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_increase-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_increase-gap_available.expected
+END
+x-size_partially_aligned-overlap_increase-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_increase-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_add-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_add-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_add-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_add-gap_available.expected
+END
+x-size_aligned_decrease-overlap_increase-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_increase-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_not_aligned-overlap_increase-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_increase-gap_zero.expected
+END
+x-size_aligned_increase-overlap_none-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_none-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_decrease-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_decrease-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_none-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_none-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_not_aligned-overlap_decrease-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_decrease-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_same-gap_zero.expected
+END
+repart_bug_2096.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5757/trunk/tests/harness/testcases/r/repart/repart_bug_2096.expected
+END
+x-size_aligned_decrease-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_same-gap_zero.expected
+END
+x-size_not_aligned-overlap_none-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_none-gap_available.expected
+END
+x-size_not_aligned-overlap_same-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_same-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_decrease-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_decrease-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_same-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_same-gap_available.expected
+END
+x-size_partially_aligned-overlap_increase-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_increase-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_increase-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_increase-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_remove-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_remove-gap_zero.expected
+END
+x-size_not_aligned-overlap_none-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_none-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_same-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_same-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_not_aligned-overlap_none-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_none-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_increase-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_increase-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_not_aligned-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_same-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_none-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_none-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_partially_aligned-overlap_decrease-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_decrease-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_increase-overlap_same-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_same-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_partially_aligned-overlap_none-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_none-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_add-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_add-gap_zero.expected
+END
+x-size_aligned_increase-overlap_add-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_add-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_increase-overlap_decrease-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_decrease-gap_zero.expected
+END
+x-size_partially_aligned-overlap_same-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_same-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_increase-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_increase-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_decrease-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_decrease-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_remove-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_remove-gap_available.expected
+END
+x-size_aligned_increase-overlap_remove-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_remove-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_add-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_add-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_increase-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_increase-gap_zero.expected
+END
+x-size_partially_aligned-overlap_remove-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_remove-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_partially_aligned-overlap_none-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_none-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_none-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_none-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_same-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_same-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_decrease-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_decrease-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_remove-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_remove-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_not_aligned-overlap_add-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_add-gap_zero.expected
+END
+x-size_partially_aligned-overlap_increase-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_increase-gap_zero.expected
+END
+x-size_partially_aligned-overlap_decrease-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_decrease-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_not_aligned-overlap_remove-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_remove-gap_available.expected
+END
+x-size_aligned_decrease-overlap_same-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_same-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_same-gap_zero.expected
+END
+x-size_not_aligned-overlap_add-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_add-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_none-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_none-gap_zero.expected
+END
+x-size_partially_aligned-overlap_add-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_add-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_none-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_none-gap_zero.expected
+END
+x-size_not_aligned-overlap_decrease-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_decrease-gap_zero.expected
+END
+x-size_partially_aligned-overlap_decrease-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_decrease-gap_available.expected
+END
+x-size_aligned_increase-overlap_add-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_add-gap_available.expected
+END
+x-size_aligned_increase-overlap_increase-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_increase-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_decrease-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_decrease-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_same-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_same-gap_available.expected
+END
+x-size_not_aligned-overlap_none-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_none-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_add-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_add-gap_available.expected
+END
+x-size_partially_aligned-overlap_none-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_none-gap_available.expected
+END
+x-size_aligned_decrease-overlap_increase-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_increase-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_decrease-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_decrease-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_add-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_add-gap_zero.expected
+END
+x-size_not_aligned-overlap_increase-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_increase-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_increase-overlap_none-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_none-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_not_aligned-overlap_decrease-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_decrease-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_remove-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_remove-gap_available.expected
+END
+x-size_aligned_increase-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_same-gap_zero.expected
+END
+x-size_aligned_increase-overlap_same-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_same-gap_available.expected
+END
+x-size_aligned_increase-overlap_add-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_add-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_add-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_add-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_increase-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_increase-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_add-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_add-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_increase-overlap_remove-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_remove-gap_zero.expected
+END
+x-size_not_aligned-overlap_same-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_same-gap_available.expected
+END
+x-size_aligned_increase-overlap_remove-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_remove-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_remove-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_remove-gap_available.expected
+END
+x-size_not_aligned-overlap_add-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_add-gap_available.expected
+END
+x-size_not_aligned-overlap_decrease-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_decrease-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_decrease-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_decrease-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_decrease-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_decrease-gap_zero.expected
+END
+x-size_aligned_increase-overlap_increase-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_increase-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_partially_aligned-overlap_same-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_same-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_add-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_add-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_remove-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_remove-gap_zero.expected
+END
+x-size_partially_aligned-overlap_add-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_add-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_partially_aligned-overlap_decrease-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_decrease-gap_zero.expected
+END
+x-size_not_aligned-overlap_remove-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_remove-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_remove-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_remove-gap_available.expected
+END
+x-size_partially_aligned-overlap_remove-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_remove-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_none-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_none-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_none-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_none-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_none-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_none-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_increase-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_increase-gap_available.expected
+END
+x-size_aligned_decrease-overlap_remove-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_remove-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_decrease-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_decrease-gap_available.expected
+END
+x-size_aligned_increase-overlap_increase-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_increase-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_same-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_same-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_increase-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_increase-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_add-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_partially_aligned-overlap_add-gap_available.expected
+END
+x-size_not_aligned-overlap_increase-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_increase-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_same-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_same-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_increase-overlap_decrease-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_decrease-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_decrease-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_decrease-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_decrease-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_decrease-gap_available.expected
+END
+x-size_aligned_increase-overlap_none-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_none-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_none-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_none-gap_available.expected
+END
+x-size_partially_aligned-overlap_add-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_add-gap_available.expected
+END
+x-size_partially_aligned-overlap_increase-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_increase-gap_available.expected
+END
+x-size_aligned_increase-overlap_same-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_same-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_increase-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_increase-gap_available.expected
+END
+x-size_aligned_decrease-overlap_add-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_add-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_decrease-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_decrease-gap_zero.expected
+END
+x-size_not_aligned-overlap_same-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_same-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_remove-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_remove-gap_zero.expected
+END
+x-size_aligned_increase-overlap_remove-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_remove-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_increase-overlap_none-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_none-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_decrease-overlap_remove-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_remove-gap_available.expected
+END
+x-size_aligned_decrease-overlap_none-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_decrease-overlap_none-gap_available.expected
+END
+x-size_not_aligned-overlap_remove-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_remove-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_remove-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_not_aligned-overlap_remove-gap_zero.expected
+END
+x-size_partially_aligned-overlap_none-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_none-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_aligned_increase-overlap_increase-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_increase-gap_zero.expected
+END
+x-size_aligned_increase-overlap_decrease-gap_available--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_decrease-gap_available--y-size_same-overlap_same-gap_zero.expected
+END
+x-size_partially_aligned-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_same-gap_zero.expected
+END
+x-size_partially_aligned-overlap_same-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_same-gap_available.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_remove-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_remove-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero.expected
+END
+x-size_partially_aligned-overlap_add-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_add-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_none-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_decrease-overlap_none-gap_zero.expected
+END
+x-size_not_aligned-overlap_increase-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_increase-gap_available.expected
+END
+x-size_not_aligned-overlap_remove-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_not_aligned-overlap_remove-gap_zero.expected
+END
+x-size_partially_aligned-overlap_remove-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_remove-gap_zero.expected
+END
+x-size_partially_aligned-overlap_remove-gap_available.expected
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_partially_aligned-overlap_remove-gap_available.expected
+END
+x-size_aligned_increase-overlap_add-gap_zero--y-size_same-overlap_same-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/x-size_aligned_increase-overlap_add-gap_zero--y-size_same-overlap_same-gap_zero.expected
+END
+y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_increase-gap_zero.expected
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/repart/y-size_same-overlap_same-gap_zero--x-size_aligned_increase-overlap_increase-gap_zero.expected
+END

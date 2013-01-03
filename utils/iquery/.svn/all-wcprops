@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5224/trunk/utils/iquery
+END
+commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5101/trunk/utils/iquery/commands.h
+END
+keywords.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5101/trunk/utils/iquery/keywords.cpp
+END
+IqueryConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5064/trunk/utils/iquery/IqueryConfig.h
+END
+iquery_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4237/trunk/utils/iquery/iquery_parser.cpp
+END
+parser.yy
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5200/trunk/utils/iquery/parser.yy
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4894/trunk/utils/iquery/CMakeLists.txt
+END
+keywords.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4237/trunk/utils/iquery/keywords.h
+END
+iquery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5224/trunk/utils/iquery/iquery.cpp
+END
+scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4237/trunk/utils/iquery/scanner.h
+END
+scanner.ll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5200/trunk/utils/iquery/scanner.ll
+END
+iquery_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4237/trunk/utils/iquery/iquery_parser.h
+END

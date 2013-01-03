@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4826/trunk/tests/harness/testcases/r/expression
+END
+apply_float_div.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4826/trunk/tests/harness/testcases/r/expression/apply_float_div.expected
+END
+apply_double_div.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4826/trunk/tests/harness/testcases/r/expression/apply_double_div.expected
+END

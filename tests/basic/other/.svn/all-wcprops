@@ -1,0 +1,1961 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4562/trunk/tests/basic/other
+END
+join.as.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/join.as.afl
+END
+between1.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between1.dn.afl.res
+END
+unpack.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2352/trunk/tests/basic/other/unpack.sp.afl
+END
+subsample.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample.sp.afl.res
+END
+run.003.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.003.afl
+END
+subsample4.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample4.dn.afl.res
+END
+reshape.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/reshape.sp.afl
+END
+run.007.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.007.afl
+END
+between2.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between2.dn.afl
+END
+subsample1.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample1.dn.afl
+END
+subsample10.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample10.sp.afl
+END
+repart.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/repart.sp.afl
+END
+flip2.vectorR2.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2352/trunk/tests/basic/other/flip2.vectorR2.afl
+END
+subarray.sg.dn.3.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2928/trunk/tests/basic/other/subarray.sg.dn.3.afl.res
+END
+cross.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/cross.dn.afl
+END
+average.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/average.sp.afl
+END
+transpose.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/transpose.sp.afl
+END
+subsample.vec.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample.vec.afl.res
+END
+run.012.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.012.afl
+END
+between4.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between4.dn.afl.res
+END
+var001.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2174/trunk/tests/basic/other/var001.dn.afl
+END
+run.016.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.016.afl
+END
+subsample7.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample7.dn.afl.res
+END
+reverse.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/reverse.dn.afl
+END
+subsample.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample.sp.afl
+END
+slice2.afl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2027/trunk/tests/basic/other/slice2.afl
+END
+between9.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between9.dn.afl
+END
+subsample8.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample8.dn.afl
+END
+apply.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/apply.dn.afl
+END
+subsample12.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample12.dn.afl.res
+END
+window.02.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3226/trunk/tests/basic/other/window.02.afl
+END
+flip.vector.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2757/trunk/tests/basic/other/flip.vector.afl
+END
+sum.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/sum.dn.afl.res
+END
+between.vec.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between.vec.afl.res
+END
+bernoulli2.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3226/trunk/tests/basic/other/bernoulli2.sp.afl
+END
+lookup.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/lookup.dn.afl.res
+END
+run.021.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.021.afl
+END
+between7.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between7.dn.afl.res
+END
+between0.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between0.dn.afl
+END
+run.025.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3120/trunk/tests/basic/other/run.025.afl
+END
+flip.presidents.afl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3601/trunk/tests/basic/other/flip.presidents.afl
+END
+flip2.vector.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2757/trunk/tests/basic/other/flip2.vector.afl
+END
+run.029.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2352/trunk/tests/basic/other/run.029.afl
+END
+project2.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/project2.afl.res
+END
+project4.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/project4.afl.res
+END
+subsample.func.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample.func.afl
+END
+join.as.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3512/trunk/tests/basic/other/join.as.afl.res
+END
+run.001.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.001.afl.res
+END
+run.003.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.003.afl.res
+END
+run.005.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2639/trunk/tests/basic/other/run.005.afl.res
+END
+run.007.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.007.afl.res
+END
+between.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3512/trunk/tests/basic/other/between.sp.afl.res
+END
+run.009.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.009.afl.res
+END
+substitute.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3512/trunk/tests/basic/other/substitute.dn.afl.res
+END
+sum.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2027/trunk/tests/basic/other/sum.dn.afl
+END
+subsample10.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3512/trunk/tests/basic/other/subsample10.sp.afl.res
+END
+run.030.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.030.afl
+END
+between.oob.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between.oob.afl
+END
+multiply.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2027/trunk/tests/basic/other/multiply.dn.afl.res
+END
+crossjoin.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2045/trunk/tests/basic/other/crossjoin.dn.afl
+END
+flip2.vectorR2.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3512/trunk/tests/basic/other/flip2.vectorR2.afl.res
+END
+run.034.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.034.afl
+END
+sample1.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2027/trunk/tests/basic/other/sample1.sp.afl.res
+END
+run.038.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.038.afl
+END
+between7.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between7.dn.afl
+END
+subsample6.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample6.dn.afl
+END
+cross.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/cross.dn.afl.res
+END
+min.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2027/trunk/tests/basic/other/min.dn.afl
+END
+reverse.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2027/trunk/tests/basic/other/reverse.sp.afl.res
+END
+project2.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/project2.afl
+END
+between10.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/between10.dn.afl
+END
+run.010.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.010.afl.res
+END
+run.012.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3512/trunk/tests/basic/other/run.012.afl.res
+END
+concat.subarray.1.afl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2892/trunk/tests/basic/other/concat.subarray.1.afl
+END
+subsample11.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2744/trunk/tests/basic/other/subsample11.dn.afl
+END
+max.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/max.sp.afl.res
+END
+var001.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2174/trunk/tests/basic/other/var001.dn.afl.res
+END
+run.016.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3620/trunk/tests/basic/other/run.016.afl.res
+END
+average.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2027/trunk/tests/basic/other/average.dn.afl.res
+END
+timestamp.ops.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3615/trunk/tests/basic/other/timestamp.ops.afl
+END
+run.018.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.018.afl.res
+END
+subsample0.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample0.dn.afl.res
+END
+dimensions.nonint.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2411/trunk/tests/basic/other/dimensions.nonint.afl.res
+END
+transpose.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2027/trunk/tests/basic/other/transpose.dn.afl.res
+END
+run.004.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.004.afl
+END
+subsample13.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3512/trunk/tests/basic/other/subsample13.sp.afl.res
+END
+slice2.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/slice2.afl.res
+END
+update.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/update.afl.res
+END
+run.008.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.008.afl
+END
+between.func.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3512/trunk/tests/basic/other/between.func.afl.res
+END
+apply.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/apply.dn.afl.res
+END
+window.01.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2869/trunk/tests/basic/other/window.01.afl.res
+END
+reverse.vec.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2027/trunk/tests/basic/other/reverse.vec.afl.res
+END
+window.03.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2871/trunk/tests/basic/other/window.03.afl.res
+END
+deldim.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/deldim.dn.afl.res
+END
+build.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/build.afl.res
+END
+list_nodes.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3532/trunk/tests/basic/other/list_nodes.afl.res
+END
+reverse.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/reverse.sp.afl
+END
+run.021.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.021.afl.res
+END
+stdev001.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2174/trunk/tests/basic/other/stdev001.dn.afl.res
+END
+run.023.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.023.afl.res
+END
+run.025.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.025.afl.res
+END
+flip.presidents.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3601/trunk/tests/basic/other/flip.presidents.afl.res
+END
+between0.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between0.dn.afl.res
+END
+run.027.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.027.afl.res
+END
+run.029.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.029.afl.res
+END
+flip2.vector.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3512/trunk/tests/basic/other/flip2.vector.afl.res
+END
+run.013.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.013.afl
+END
+apply.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/apply.sp.afl
+END
+subsample3.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample3.dn.afl.res
+END
+stdev002.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2174/trunk/tests/basic/other/stdev002.dn.afl
+END
+run.017.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.017.afl
+END
+adddim.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/adddim.dn.afl.res
+END
+dimensions.nonint.afl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/dimensions.nonint.afl
+END
+subsample.func.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample.func.afl.res
+END
+between5.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between5.dn.afl
+END
+subsample4.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample4.dn.afl
+END
+subsample13.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2744/trunk/tests/basic/other/subsample13.sp.afl
+END
+filter.empty.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/filter.empty.afl
+END
+between11.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3512/trunk/tests/basic/other/between11.dn.afl.res
+END
+list_arrays.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3615/trunk/tests/basic/other/list_arrays.afl.res
+END
+filter.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/filter.dn.afl
+END
+xgrid.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/xgrid.sp.afl.res
+END
+window.03.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3226/trunk/tests/basic/other/window.03.afl
+END
+min.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/min.sp.afl.res
+END
+run.030.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.030.afl.res
+END
+run.034.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.034.afl.res
+END
+crossjoin.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2027/trunk/tests/basic/other/crossjoin.dn.afl.res
+END
+run.036.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.036.afl.res
+END
+between3.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between3.dn.afl.res
+END
+run.038.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3676/trunk/tests/basic/other/run.038.afl.res
+END
+run.022.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.022.afl
+END
+subsample.vec.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample.vec.afl
+END
+subsample6.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample6.dn.afl.res
+END
+run.026.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2352/trunk/tests/basic/other/run.026.afl
+END
+ewh.002.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3512/trunk/tests/basic/other/ewh.002.afl.res
+END
+subsample11.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2744/trunk/tests/basic/other/subsample11.dn.afl.res
+END
+sum.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2027/trunk/tests/basic/other/sum.sp.afl
+END
+concat.subarray.1.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2892/trunk/tests/basic/other/concat.subarray.1.afl.res
+END
+flip.vectorR2.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3512/trunk/tests/basic/other/flip.vectorR2.afl.res
+END
+slice.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/slice.dn.afl.res
+END
+unpack.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/unpack.sp.afl.res
+END
+list_arrays.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3122/trunk/tests/basic/other/list_arrays.afl
+END
+aggregate.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2027/trunk/tests/basic/other/aggregate.sp.afl.res
+END
+concat.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/concat.dn.afl.res
+END
+min.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2027/trunk/tests/basic/other/min.sp.afl
+END
+run.031.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.031.afl
+END
+repart.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/repart.sp.afl.res
+END
+between6.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between6.dn.afl.res
+END
+merge.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3512/trunk/tests/basic/other/merge.sp.afl.res
+END
+run.035.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.035.afl
+END
+between3.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between3.dn.afl
+END
+subsample9.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample9.dn.afl.res
+END
+subsample2.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample2.dn.afl
+END
+subsample11.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample11.sp.afl
+END
+reshape.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2027/trunk/tests/basic/other/reshape.dn.afl.res
+END
+ewh.001.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2349/trunk/tests/basic/other/ewh.001.afl
+END
+project3.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/project3.afl
+END
+concat.subarray.2.afl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2892/trunk/tests/basic/other/concat.subarray.2.afl
+END
+run.001.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.001.afl
+END
+run.005.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.005.afl
+END
+crossjoin.bld.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2745/trunk/tests/basic/other/crossjoin.bld.afl
+END
+var002.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2174/trunk/tests/basic/other/var002.dn.afl
+END
+between9.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between9.dn.afl.res
+END
+substitute.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2055/trunk/tests/basic/other/substitute.dn.afl
+END
+run.009.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.009.afl
+END
+filter.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3512/trunk/tests/basic/other/filter.dn.afl.res
+END
+multiply.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/multiply.dn.afl
+END
+merge.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/merge.sp.afl
+END
+sample1.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/sample1.sp.afl
+END
+subsample.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample.dn.afl.res
+END
+subsample9.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample9.dn.afl
+END
+bernoulli2.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/bernoulli2.sp.afl.res
+END
+subarray.sg.dn.2.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2918/trunk/tests/basic/other/subarray.sg.dn.2.afl.res
+END
+between.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/between.dn.afl
+END
+transpose.vec.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/transpose.vec.afl
+END
+sub.presidents.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3586/trunk/tests/basic/other/sub.presidents.afl.res
+END
+run.010.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.010.afl
+END
+filter.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/filter.sp.afl
+END
+subsample12.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample12.sp.afl.res
+END
+between1.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between1.dn.afl
+END
+subsample0.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample0.dn.afl
+END
+run.018.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.018.afl
+END
+flip.vector_str.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3512/trunk/tests/basic/other/flip.vector_str.afl.res
+END
+sum.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/sum.sp.afl.res
+END
+between.func.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/between.func.afl
+END
+max.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2027/trunk/tests/basic/other/max.dn.afl
+END
+reverse.vec.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/reverse.vec.afl
+END
+subarray.sg.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2918/trunk/tests/basic/other/subarray.sg.dn.afl.res
+END
+window.04.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3226/trunk/tests/basic/other/window.04.afl
+END
+build.afl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2027/trunk/tests/basic/other/build.afl
+END
+subarray.sg.dn.2.afl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2918/trunk/tests/basic/other/subarray.sg.dn.2.afl
+END
+run.nullable.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.nullable.afl
+END
+list_nodes.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4562/trunk/tests/basic/other/list_nodes.afl
+END
+var003.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2174/trunk/tests/basic/other/var003.dn.afl.res
+END
+subsample2.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample2.dn.afl.res
+END
+run.023.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.023.afl
+END
+sub.presidents.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3586/trunk/tests/basic/other/sub.presidents.afl
+END
+subsample.oob.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample.oob.afl
+END
+run.027.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.027.afl
+END
+project1.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/project1.afl.res
+END
+project3.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/project3.afl.res
+END
+between8.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between8.dn.afl
+END
+between10.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3512/trunk/tests/basic/other/between10.dn.afl.res
+END
+subsample7.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample7.dn.afl
+END
+update.verify.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/update.verify.afl
+END
+between11.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/between11.dn.afl
+END
+run.002.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.002.afl.res
+END
+bernoulli1.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/bernoulli1.sp.afl
+END
+subsample12.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample12.dn.afl
+END
+run.004.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.004.afl.res
+END
+stdev003.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2174/trunk/tests/basic/other/stdev003.dn.afl.res
+END
+subarray.sg.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2918/trunk/tests/basic/other/subarray.sg.dn.afl
+END
+run.006.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.006.afl.res
+END
+crossjoin.bld.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2745/trunk/tests/basic/other/crossjoin.bld.afl.res
+END
+run.008.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.008.afl.res
+END
+between2.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between2.dn.afl.res
+END
+subsample5.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample5.dn.afl.res
+END
+flip.vector2_R2.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3512/trunk/tests/basic/other/flip.vector2_R2.afl.res
+END
+run.036.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3226/trunk/tests/basic/other/run.036.afl
+END
+xgrid.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/xgrid.dn.afl
+END
+join.flip.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3512/trunk/tests/basic/other/join.flip.afl.res
+END
+between.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3512/trunk/tests/basic/other/between.dn.afl.res
+END
+ewh.002.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2349/trunk/tests/basic/other/ewh.002.afl
+END
+average.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2027/trunk/tests/basic/other/average.sp.afl.res
+END
+subsample10.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2744/trunk/tests/basic/other/subsample10.dn.afl.res
+END
+transpose.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2027/trunk/tests/basic/other/transpose.sp.afl.res
+END
+project4.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/project4.afl
+END
+run.011.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.011.afl.res
+END
+apply.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/apply.sp.afl.res
+END
+run.013.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.013.afl.res
+END
+slice.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/slice.dn.afl
+END
+flip.vectorR2.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2757/trunk/tests/basic/other/flip.vectorR2.afl
+END
+run.017.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3606/trunk/tests/basic/other/run.017.afl.res
+END
+reverse.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2027/trunk/tests/basic/other/reverse.dn.afl.res
+END
+run.002.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.002.afl
+END
+run.019.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.019.afl.res
+END
+between5.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between5.dn.afl.res
+END
+concat.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/concat.dn.afl
+END
+aggregate.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3226/trunk/tests/basic/other/aggregate.sp.afl
+END
+run.006.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.006.afl
+END
+stdev003.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2174/trunk/tests/basic/other/stdev003.dn.afl
+END
+slice1.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/slice1.afl.res
+END
+filter.empty.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3512/trunk/tests/basic/other/filter.empty.afl.res
+END
+between.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/between.sp.afl
+END
+subsample8.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample8.dn.afl.res
+END
+max.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/max.dn.afl.res
+END
+between6.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between6.dn.afl
+END
+window.02.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2869/trunk/tests/basic/other/window.02.afl.res
+END
+flip.vector2_R2.afl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2757/trunk/tests/basic/other/flip.vector2_R2.afl
+END
+subsample5.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample5.dn.afl
+END
+subsample14.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2744/trunk/tests/basic/other/subsample14.sp.afl
+END
+unpack.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/unpack.dn.afl
+END
+flip.vector.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/flip.vector.afl.res
+END
+reshape.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/reshape.dn.afl
+END
+join.flip.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/join.flip.afl
+END
+run.nullable.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3512/trunk/tests/basic/other/run.nullable.afl.res
+END
+subsample10.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2744/trunk/tests/basic/other/subsample10.dn.afl
+END
+run.020.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.020.afl.res
+END
+repart.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/repart.dn.afl
+END
+run.022.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.022.afl.res
+END
+run.024.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.024.afl.res
+END
+subsample.oob.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample.oob.afl.res
+END
+run.026.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.026.afl.res
+END
+run.011.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.011.afl
+END
+run.028.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.028.afl.res
+END
+max.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2027/trunk/tests/basic/other/max.sp.afl
+END
+between8.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between8.dn.afl.res
+END
+average.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/average.dn.afl
+END
+run.019.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3226/trunk/tests/basic/other/run.019.afl
+END
+update.verify.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/update.verify.afl.res
+END
+transpose.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/transpose.dn.afl
+END
+slice1.afl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2027/trunk/tests/basic/other/slice1.afl
+END
+update.afl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2027/trunk/tests/basic/other/update.afl
+END
+bernoulli1.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/bernoulli1.sp.afl.res
+END
+window.01.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3226/trunk/tests/basic/other/window.01.afl
+END
+subsample.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample.dn.afl
+END
+run.031.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.031.afl.res
+END
+deldim.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2352/trunk/tests/basic/other/deldim.dn.afl
+END
+between.oob.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3512/trunk/tests/basic/other/between.oob.afl.res
+END
+run.033.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.033.afl.res
+END
+subarray.sg.dn.3.afl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2928/trunk/tests/basic/other/subarray.sg.dn.3.afl
+END
+run.035.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.035.afl.res
+END
+run.020.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.020.afl
+END
+run.037.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.037.afl.res
+END
+xgrid.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/xgrid.dn.afl.res
+END
+stdev001.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2174/trunk/tests/basic/other/stdev001.dn.afl
+END
+subsample11.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample11.sp.afl.res
+END
+run.024.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3120/trunk/tests/basic/other/run.024.afl
+END
+slice.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/slice.sp.afl.res
+END
+build.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2027/trunk/tests/basic/other/build.sp.afl.res
+END
+ewh.001.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2349/trunk/tests/basic/other/ewh.001.afl.res
+END
+min.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2027/trunk/tests/basic/other/min.dn.afl.res
+END
+run.028.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.028.afl
+END
+sample2.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2027/trunk/tests/basic/other/sample2.sp.afl.res
+END
+ewh.003.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2349/trunk/tests/basic/other/ewh.003.afl.res
+END
+between4.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between4.dn.afl
+END
+subsample3.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample3.dn.afl
+END
+subsample12.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2352/trunk/tests/basic/other/subsample12.sp.afl
+END
+concat.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/concat.sp.afl.res
+END
+adddim.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/adddim.dn.afl
+END
+flip.vector_str.afl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2757/trunk/tests/basic/other/flip.vector_str.afl
+END
+concat.subarray.2.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2892/trunk/tests/basic/other/concat.subarray.2.afl.res
+END
+timestamp.ops.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3684/trunk/tests/basic/other/timestamp.ops.afl.res
+END
+xgrid.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/xgrid.sp.afl
+END
+reshape.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2027/trunk/tests/basic/other/reshape.sp.afl.res
+END
+var002.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2174/trunk/tests/basic/other/var002.dn.afl.res
+END
+subsample1.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/subsample1.dn.afl.res
+END
+between.vec.afl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2027/trunk/tests/basic/other/between.vec.afl
+END
+run.033.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.033.afl
+END
+unpack.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/unpack.dn.afl.res
+END
+subsample14.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2744/trunk/tests/basic/other/subsample14.sp.afl.res
+END
+lookup.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/lookup.dn.afl
+END
+var003.dn.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2174/trunk/tests/basic/other/var003.dn.afl
+END
+run.037.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2027/trunk/tests/basic/other/run.037.afl
+END
+window.04.afl.err
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2956/trunk/tests/basic/other/window.04.afl.err
+END
+slice.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/slice.sp.afl
+END
+build.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/build.sp.afl
+END
+transpose.vec.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2027/trunk/tests/basic/other/transpose.vec.afl.res
+END
+ewh.003.afl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2349/trunk/tests/basic/other/ewh.003.afl
+END
+sample2.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3226/trunk/tests/basic/other/sample2.sp.afl
+END
+repart.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/repart.dn.afl.res
+END
+project1.afl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2027/trunk/tests/basic/other/project1.afl
+END
+concat.sp.afl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2027/trunk/tests/basic/other/concat.sp.afl
+END
+filter.sp.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2027/trunk/tests/basic/other/filter.sp.afl.res
+END
+stdev002.dn.afl.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2174/trunk/tests/basic/other/stdev002.dn.afl.res
+END

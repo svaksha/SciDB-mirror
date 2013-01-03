@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5720/trunk/examples/rational
+END
+rational.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5720/trunk/examples/rational/rational.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4072/trunk/examples/rational/CMakeLists.txt
+END
+rational.ail
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2519/trunk/examples/rational/rational.ail
+END
+rational_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5720/trunk/examples/rational/rational_functions.h
+END

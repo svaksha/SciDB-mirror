@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5520/trunk/examples/fits
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4469/trunk/examples/fits/CMakeLists.txt
+END
+plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4469/trunk/examples/fits/plugin.cpp
+END

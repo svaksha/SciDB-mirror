@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5444/trunk/src/query/ops/apply
+END
+ApplyArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4237/trunk/src/query/ops/apply/ApplyArray.h
+END
+LogicalApply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5444/trunk/src/query/ops/apply/LogicalApply.cpp
+END
+PhysicalApply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4237/trunk/src/query/ops/apply/PhysicalApply.cpp
+END
+ApplyArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4441/trunk/src/query/ops/apply/ApplyArray.cpp
+END

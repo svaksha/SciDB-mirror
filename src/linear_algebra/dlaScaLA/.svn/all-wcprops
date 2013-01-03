@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5760/trunk/src/linear_algebra/dlaScaLA
+END
+GEMMLogical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5670/trunk/src/linear_algebra/dlaScaLA/GEMMLogical.cpp
+END
+pdgesvdOpFaker.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/pdgesvdOpFaker.f90
+END
+pdgesvdOpFaker.mat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/pdgesvdOpFaker.mat.txt
+END
+GEMMPhysical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5731/trunk/src/linear_algebra/dlaScaLA/GEMMPhysical.cpp
+END
+SVDLogical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5681/trunk/src/linear_algebra/dlaScaLA/SVDLogical.cpp
+END
+pdgesvdOpFaker.dat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/pdgesvdOpFaker.dat.txt
+END
+README.DLA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5473/trunk/src/linear_algebra/dlaScaLA/README.DLA.txt
+END
+SVDPhysical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5748/trunk/src/linear_algebra/dlaScaLA/SVDPhysical.cpp
+END

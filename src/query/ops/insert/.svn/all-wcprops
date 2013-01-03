@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5769/trunk/src/query/ops/insert
+END
+LogicalInsert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5451/trunk/src/query/ops/insert/LogicalInsert.cpp
+END
+PhysicalInsert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5769/trunk/src/query/ops/insert/PhysicalInsert.cpp
+END

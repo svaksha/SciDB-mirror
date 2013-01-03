@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart
+END
+dense_2d-5000-size_same-overlap_add.expected
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-5000-size_same-overlap_add.expected
+END
+sparse_3d-20-size_same-overlap_remove.expected
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_3d-20-size_same-overlap_remove.expected
+END
+dense_3d-20-size_same-overlap_remove.expected
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_3d-20-size_same-overlap_remove.expected
+END
+sparse_2d-5000-size_same-overlap_remove.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-5000-size_same-overlap_remove.expected
+END
+dense_2d-5000-size_same-overlap_remove.expected
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-5000-size_same-overlap_remove.expected
+END
+dense_2d-10000-size_decrease-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-10000-size_decrease-overlap_none.expected
+END
+sparse_2d-10000-size_same-overlap_add.expected
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-10000-size_same-overlap_add.expected
+END
+sparse_2d-10000-size_same-overlap_increase.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-10000-size_same-overlap_increase.expected
+END
+dense_2d-10000-size_same-overlap_add.expected
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-10000-size_same-overlap_add.expected
+END
+dense_2d-10000-size_same-overlap_remove.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-10000-size_same-overlap_remove.expected
+END
+sparse_2d-10000-size_increase-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-10000-size_increase-overlap_none.expected
+END
+sparse_3d-20-size_same-overlap_add.expected
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_3d-20-size_same-overlap_add.expected
+END
+sparse_3d-20-size_same-overlap_increase.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_3d-20-size_same-overlap_increase.expected
+END
+sparse_2d-10000-size_same-overlap_decrease.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-10000-size_same-overlap_decrease.expected
+END
+sparse_2d-5000-size_same-overlap_add.expected
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-5000-size_same-overlap_add.expected
+END
+dense_3d-20-size_same-overlap_increase.expected
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_3d-20-size_same-overlap_increase.expected
+END
+sparse_2d-5000-size_same-overlap_increase.expected
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-5000-size_same-overlap_increase.expected
+END
+dense_2d-5000-size_same-overlap_increase.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-5000-size_same-overlap_increase.expected
+END
+sparse_3d-20-size_increase-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_3d-20-size_increase-overlap_none.expected
+END
+sparse_2d-10000-size_decrease-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-10000-size_decrease-overlap_none.expected
+END
+dense_3d-20-size_increase-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_3d-20-size_increase-overlap_none.expected
+END
+sparse_2d-5000-size_increase-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-5000-size_increase-overlap_none.expected
+END
+dense_2d-5000-size_increase-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-5000-size_increase-overlap_none.expected
+END
+dense_2d-10000-size_same-overlap_increase.expected
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-10000-size_same-overlap_increase.expected
+END
+sparse_2d-10000-size_same-overlap_remove.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-10000-size_same-overlap_remove.expected
+END
+sparse_3d-20-size_same-overlap_decrease.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_3d-20-size_same-overlap_decrease.expected
+END
+dense_3d-20-size_same-overlap_decrease.expected
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_3d-20-size_same-overlap_decrease.expected
+END
+sparse_2d-5000-size_same-overlap_decrease.expected
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-5000-size_same-overlap_decrease.expected
+END
+dense_2d-5000-size_same-overlap_decrease.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-5000-size_same-overlap_decrease.expected
+END
+dense_2d-10000-size_increase-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-10000-size_increase-overlap_none.expected
+END
+sparse_3d-20-size_decrease-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_3d-20-size_decrease-overlap_none.expected
+END
+dense_3d-20-size_decrease-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_3d-20-size_decrease-overlap_none.expected
+END
+sparse_2d-5000-size_decrease-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/sparse_2d-5000-size_decrease-overlap_none.expected
+END
+dense_2d-5000-size_decrease-overlap_none.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-5000-size_decrease-overlap_none.expected
+END
+dense_3d-20-size_same-overlap_add.expected
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_3d-20-size_same-overlap_add.expected
+END
+dense_2d-10000-size_same-overlap_decrease.expected
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5125/trunk/tests/harness/testcases/r/perf/repart/dense_2d-10000-size_same-overlap_decrease.expected
+END

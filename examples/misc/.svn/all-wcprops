@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5073/trunk/examples/misc
+END
+misc_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5073/trunk/examples/misc/misc_functions.h
+END
+misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4562/trunk/examples/misc/misc.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4072/trunk/examples/misc/CMakeLists.txt
+END
+misc.ail
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1752/trunk/examples/misc/misc.ail
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5548/trunk/tests/harness/testcases/t/fits
+END
+fits_input.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5548/trunk/tests/harness/testcases/t/fits/fits_input.test
+END
+fits_show.test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4469/trunk/tests/harness/testcases/t/fits/fits_show.test
+END

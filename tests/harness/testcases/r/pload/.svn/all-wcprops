@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5707/trunk/tests/harness/testcases/r/pload
+END
+loadcsv_chk_rows.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/pload/loadcsv_chk_rows.expected
+END
+loadcsv_multiple_sessions.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/pload/loadcsv_multiple_sessions.expected
+END
+loadcsv_shadow_array.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/pload/loadcsv_shadow_array.expected
+END
+loadcsv_targetArray_IRI.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5699/trunk/tests/harness/testcases/r/pload/loadcsv_targetArray_IRI.expected
+END
+csv2scidb1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/pload/csv2scidb1.expected
+END
+paraload1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5707/trunk/tests/harness/testcases/r/pload/paraload1.expected
+END
+loadcsv_targetArray_IRL.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5699/trunk/tests/harness/testcases/r/pload/loadcsv_targetArray_IRL.expected
+END
+loadcsv_more_lines.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/pload/loadcsv_more_lines.expected
+END
+loadcsv_less_lines.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/pload/loadcsv_less_lines.expected
+END
+loadcsv_equal_lines.expected
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/pload/loadcsv_equal_lines.expected
+END
+loadcsv_targetArray_RSI.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5699/trunk/tests/harness/testcases/r/pload/loadcsv_targetArray_RSI.expected
+END
+loadcsv_array_wid_attribute.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5707/trunk/tests/harness/testcases/r/pload/loadcsv_array_wid_attribute.expected
+END
+loadcsv_targetArray_RSL.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5699/trunk/tests/harness/testcases/r/pload/loadcsv_targetArray_RSL.expected
+END
+loadcsv_array_wo_attribute.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/pload/loadcsv_array_wo_attribute.expected
+END
+loadcsv_more_lines2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/pload/loadcsv_more_lines2.expected
+END

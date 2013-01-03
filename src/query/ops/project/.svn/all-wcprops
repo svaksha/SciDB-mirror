@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5444/trunk/src/query/ops/project
+END
+LogicalProject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5444/trunk/src/query/ops/project/LogicalProject.cpp
+END
+PhysicalProject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4237/trunk/src/query/ops/project/PhysicalProject.cpp
+END

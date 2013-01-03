@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5444/trunk/src/query/ops/lookup
+END
+LogicalLookup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5444/trunk/src/query/ops/lookup/LogicalLookup.cpp
+END
+PhysicalLookup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5396/trunk/src/query/ops/lookup/PhysicalLookup.cpp
+END
+LookupArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4483/trunk/src/query/ops/lookup/LookupArray.cpp
+END
+LookupArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4442/trunk/src/query/ops/lookup/LookupArray.h
+END

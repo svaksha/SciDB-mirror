@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5520/trunk/examples/fits/input
+END
+LogicalFITSInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5520/trunk/examples/fits/input/LogicalFITSInput.cpp
+END
+PhysicalFITSInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5520/trunk/examples/fits/input/PhysicalFITSInput.cpp
+END
+FITSInputArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5520/trunk/examples/fits/input/FITSInputArray.cpp
+END
+FITSInputArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5520/trunk/examples/fits/input/FITSInputArray.h
+END

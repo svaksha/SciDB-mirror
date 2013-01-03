@@ -1,0 +1,168 @@
+10
+
+dir
+5777
+http://svn.scidb.org/svn/trunk/tests/harness/testcases/t
+http://svn.scidb.org/svn
+
+
+
+2012-10-30T21:45:57.136713Z
+5773
+apoliakov
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+58f552f0-4ebc-4234-bb38-843f83eedd44
+
+negative
+dir
+
+checkin
+dir
+
+disable.tests
+file
+
+
+
+
+2012-11-01T00:03:39.227382Z
+bfde69a56bcc3e3a218a6ff5883a1d68
+2012-10-27T14:42:24.576266Z
+5751
+tigor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+559
+
+fits
+dir
+
+doc
+dir
+
+iqueryabort
+dir
+
+aggregates
+dir
+
+client
+dir
+
+aql_neg_misc
+dir
+
+other
+dir
+
+scalapack
+dir
+
+update
+dir
+
+flip_n_store
+dir
+
+injecterror
+dir
+
+newaql
+dir
+
+aql_misc
+dir
+
+data_model
+dir
+
+docscript
+dir
+
+perf
+dir
+
+repart
+dir
+
+rankquantile
+dir
+
+disable1i.tests
+file
+
+
+
+
+2012-11-01T00:03:39.227382Z
+edea8c91970017226d218afcf7707438
+2012-10-25T23:14:22.901402Z
+5738
+j.mcq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+599
+
+expression
+dir
+
+pload
+dir
+
+z_valgrind
+dir
+
+compression
+dir
+

@@ -1,0 +1,15 @@
+K 13
+svn:mergeinfo
+V 757
+/branches/aql_branch/src/services/network/entry.cpp:902-922
+/branches/b_0_5_release/src/services/network/entry.cpp:452,459-461,471,475,477,493,496-497,518,521,525,532-536,538,542-552,554-589,592-598,602-667,669-688,690,692-736,741-756,857-868
+/branches/b_0_75_release/src/network/entry.cpp:1556
+/branches/b_0_75_release/src/services/network/entry.cpp:1522-1523,1525
+/branches/b_0_75_release/src/services/network/src/entry.cpp:1511,1516
+/branches/b_0_8_release/src/network/entry.cpp:1716
+/branches/b_12_3_release/src/network/entry.cpp:4692
+/branches/empty_tag_hiding/src/network/entry.cpp:3476-3509
+/branches/iquery-shell-improvement/src/network/entry.cpp:2363-2365
+/branches/lyra/src/network/entry.cpp:4784-5099,5110-5111
+/trunk/src/network/entry.cpp:2-1547
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5444/trunk/src/query/ops/versions
+END
+LogicalVersions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5444/trunk/src/query/ops/versions/LogicalVersions.cpp
+END
+PhysicalVersions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5444/trunk/src/query/ops/versions/PhysicalVersions.cpp
+END

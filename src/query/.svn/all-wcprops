@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/5769/trunk/src/query
+END
+FunctionLibrary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5380/trunk/src/query/FunctionLibrary.cpp
+END
+QueryProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4562/trunk/src/query/QueryProcessor.h
+END
+AggregateUnitTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5720/trunk/src/query/AggregateUnitTests.h
+END
+OperatorLibrary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5112/trunk/src/query/OperatorLibrary.cpp
+END
+QueryPlan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4879/trunk/src/query/QueryPlan.cpp
+END
+QueryPlan.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5396/trunk/src/query/QueryPlan.h
+END
+AuxUnitTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5587/trunk/src/query/AuxUnitTests.h
+END
+BuiltInFunctions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5389/trunk/src/query/BuiltInFunctions.inc
+END
+Aggregate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5536/trunk/src/query/Aggregate.cpp
+END
+TileFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4494/trunk/src/query/TileFunctions.cpp
+END
+TypeSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5720/trunk/src/query/TypeSystem.cpp
+END
+ExpressionUnitTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4562/trunk/src/query/ExpressionUnitTests.h
+END
+FunctionDescription.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4237/trunk/src/query/FunctionDescription.cpp
+END
+LogicalExpression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4562/trunk/src/query/LogicalExpression.cpp
+END
+RemoteArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5226/trunk/src/query/RemoteArray.cpp
+END
+Statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4237/trunk/src/query/Statistics.cpp
+END
+Operator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5769/trunk/src/query/Operator.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5593/trunk/src/query/CMakeLists.txt
+END
+UDT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4237/trunk/src/query/UDT.cpp
+END
+TypeLibraryUnitTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4237/trunk/src/query/TypeLibraryUnitTests.h
+END
+Expression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5454/trunk/src/query/Expression.cpp
+END
+RemoteArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4562/trunk/src/query/RemoteArray.h
+END
+BuiltinAggregates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5720/trunk/src/query/BuiltinAggregates.cpp
+END
+FunctionLibraryUnitTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4237/trunk/src/query/FunctionLibraryUnitTests.h
+END
+BuiltInFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5108/trunk/src/query/BuiltInFunctions.h
+END
+Query.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5407/trunk/src/query/Query.cpp
+END
+QueryProcessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5294/trunk/src/query/QueryProcessor.cpp
+END

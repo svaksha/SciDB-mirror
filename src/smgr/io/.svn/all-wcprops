@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5720/trunk/src/smgr/io
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5064/trunk/src/smgr/io/CMakeLists.txt
+END
+DBLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5720/trunk/src/smgr/io/DBLoader.cpp
+END
+TemplateParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5316/trunk/src/smgr/io/TemplateParser.h
+END
+DBLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5158/trunk/src/smgr/io/DBLoader.h
+END
+LoaderConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4237/trunk/src/smgr/io/LoaderConfig.h
+END
+DimensionIndex.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5407/trunk/src/smgr/io/DimensionIndex.h
+END
+ReplicationManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4754/trunk/src/smgr/io/ReplicationManager.cpp
+END
+Storage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5708/trunk/src/smgr/io/Storage.cpp
+END
+InternalStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5407/trunk/src/smgr/io/InternalStorage.h
+END
+TemplateParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5135/trunk/src/smgr/io/TemplateParser.cpp
+END
+ReplicationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4754/trunk/src/smgr/io/ReplicationManager.h
+END
+Storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5393/trunk/src/smgr/io/Storage.h
+END

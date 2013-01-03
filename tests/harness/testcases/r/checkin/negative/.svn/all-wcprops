@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5758/trunk/tests/harness/testcases/r/checkin/negative
+END
+store.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/store.expected
+END
+flip_store_7.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4558/trunk/tests/harness/testcases/r/checkin/negative/flip_store_7.expected
+END
+repart.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/repart.expected
+END
+flip_store_9.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/flip_store_9.expected
+END
+load_bug_1938.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5758/trunk/tests/harness/testcases/r/checkin/negative/load_bug_1938.expected
+END
+filter_002.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/negative/filter_002.expected
+END
+flip_store_10.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/flip_store_10.expected
+END
+syntax_001.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/syntax_001.expected
+END
+join_on_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/join_on_1.expected
+END
+type_error_002.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/type_error_002.expected
+END
+subsample_002.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/subsample_002.expected
+END
+build_sparse.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/build_sparse.expected
+END
+type_error_004.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/type_error_004.expected
+END
+subsample_004.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/subsample_004.expected
+END
+build_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/build_1.expected
+END
+subsample_006.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/negative/subsample_006.expected
+END
+flip_store_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5691/trunk/tests/harness/testcases/r/checkin/negative/flip_store_2.expected
+END
+window_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/window_2.expected
+END
+flip_store_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/flip_store_4.expected
+END
+window_4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/window_4.expected
+END
+substitute_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/substitute_1.expected
+END
+flip_store_6.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/flip_store_6.expected
+END
+build_sparse_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/build_sparse_2.expected
+END
+flip_store_8.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/flip_store_8.expected
+END
+unknown.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4122/trunk/tests/harness/testcases/r/checkin/negative/unknown.expected
+END
+filter_001.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/filter_001.expected
+END
+flip_store_11.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/flip_store_11.expected
+END
+syntax_002.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/syntax_002.expected
+END
+type_error_001.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/type_error_001.expected
+END
+subsample_001.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/subsample_001.expected
+END
+join_on_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/join_on_2.expected
+END
+type_error_003.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/type_error_003.expected
+END
+subsample_003.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/subsample_003.expected
+END
+inline.expected
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/negative/inline.expected
+END
+subsample_005.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/subsample_005.expected
+END
+build_2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4042/trunk/tests/harness/testcases/r/checkin/negative/build_2.expected
+END
+subsample_007.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/subsample_007.expected
+END
+flip_store_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5691/trunk/tests/harness/testcases/r/checkin/negative/flip_store_1.expected
+END
+window_1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/window_1.expected
+END
+invalid_nested.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4122/trunk/tests/harness/testcases/r/checkin/negative/invalid_nested.expected
+END
+flip_store_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/flip_store_3.expected
+END
+window_3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/window_3.expected
+END
+flip_store_5.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/checkin/negative/flip_store_5.expected
+END

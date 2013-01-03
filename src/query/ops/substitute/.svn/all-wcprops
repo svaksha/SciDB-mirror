@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5444/trunk/src/query/ops/substitute
+END
+LogicalSubstitute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5444/trunk/src/query/ops/substitute/LogicalSubstitute.cpp
+END
+PhysicalSubstitute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5294/trunk/src/query/ops/substitute/PhysicalSubstitute.cpp
+END

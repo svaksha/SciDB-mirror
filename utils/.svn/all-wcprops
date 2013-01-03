@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/5765/trunk/utils
+END
+loadcsv.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5713/trunk/utils/loadcsv.py.in
+END
+splitcsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5715/trunk/utils/splitcsv.c
+END
+depgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4540/trunk/utils/depgen.py
+END
+sample_config.ini.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5566/trunk/utils/sample_config.ini.in
+END
+config.ini.ec2
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5206/trunk/utils/config.ini.ec2
+END
+benchGen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4237/trunk/utils/benchGen.cc
+END
+log1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3051/trunk/utils/log1.properties
+END
+init-scidb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4239/trunk/utils/init-scidb.sh
+END
+gen_csv.pl
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3999/trunk/utils/gen_csv.pl
+END
+oprof.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3842/trunk/utils/oprof.sh
+END
+init-db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5230/trunk/utils/init-db.sh
+END
+csv2scidb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5646/trunk/utils/csv2scidb.cpp
+END
+dumpstack.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4562/trunk/utils/dumpstack.sh
+END
+chroot_build.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5737/trunk/utils/chroot_build.py
+END
+config.ini.planet
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5206/trunk/utils/config.ini.planet
+END
+errcodepaste.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4122/trunk/utils/errcodepaste.py
+END
+scidbLoadCsv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4102/trunk/utils/scidbLoadCsv.sh
+END
+scidbLoadCsvTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3888/trunk/utils/scidbLoadCsvTest.sh
+END
+dumpthreads.gdb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/990/trunk/utils/dumpthreads.gdb
+END
+make_repo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5765/trunk/utils/make_repo.sh
+END
+scidbconf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4279/trunk/utils/scidbconf.cpp
+END
+install-Ubuntu-10_10.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2417/trunk/utils/install-Ubuntu-10_10.sh
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5550/trunk/utils/CMakeLists.txt
+END
+scidb_cores
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5492/trunk/utils/scidb_cores
+END
+scidb.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5746/trunk/utils/scidb.py.in
+END
+env_setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4562/trunk/utils/env_setup.sh
+END
+copyright.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4242/trunk/utils/copyright.sh
+END
+scidb-prepare-db.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5206/trunk/utils/scidb-prepare-db.sh.in
+END
+raw2load.pl
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2882/trunk/utils/raw2load.pl
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile
+END
+ranking_quantile_4dnull.expected
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5511/trunk/tests/harness/testcases/r/rankquantile/ranking_quantile_4dnull.expected
+END
+sort_fix1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile/sort_fix1.expected
+END
+ranking_quantile_3d.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5539/trunk/tests/harness/testcases/r/rankquantile/ranking_quantile_3d.expected
+END
+quantile_udt6.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile/quantile_udt6.expected
+END
+stringdims_withsubarray.expected
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile/stringdims_withsubarray.expected
+END
+ranking_quantile.expected
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/r/rankquantile/ranking_quantile.expected
+END
+la_quantile.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile/la_quantile.expected
+END
+ranking_quantile_multidim.expected
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5539/trunk/tests/harness/testcases/r/rankquantile/ranking_quantile_multidim.expected
+END
+quantile_nid4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile/quantile_nid4.expected
+END
+quantile_nid5.expected
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile/quantile_nid5.expected
+END
+ranking_avgrank.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/r/rankquantile/ranking_avgrank.expected
+END
+quantile1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile/quantile1.expected
+END
+ranking_rank.expected
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/r/rankquantile/ranking_rank.expected
+END
+quantile2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5614/trunk/tests/harness/testcases/r/rankquantile/quantile2.expected
+END
+quantile3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile/quantile3.expected
+END
+la_rank.expected
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile/la_rank.expected
+END
+quantile7.expected
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5686/trunk/tests/harness/testcases/r/rankquantile/quantile7.expected
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5572/trunk/tests/utils
+END
+daemon.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4909/trunk/tests/utils/daemon.py
+END
+killquery.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5572/trunk/tests/utils/killquery.sh
+END
+find_leaked_nids.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4963/trunk/tests/utils/find_leaked_nids.sh
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4936/trunk/tests/utils/CMakeLists.txt
+END

@@ -1,0 +1,123 @@
+10
+
+dir
+5777
+http://svn.scidb.org/svn/trunk/doc/user
+http://svn.scidb.org/svn
+
+
+
+2012-10-31T20:20:22.991678Z
+5777
+sraman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+58f552f0-4ebc-4234-bb38-843f83eedd44
+
+t
+dir
+
+html
+dir
+
+data
+dir
+
+pdf
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-11-01T00:04:00.119120Z
+1051110f5c81e9a837a4c00252f689f1
+2012-09-29T02:58:10.011095Z
+5571
+sraman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1788
+
+examples
+dir
+
+XSLTFile.xsl
+file
+
+
+
+
+2012-11-01T00:04:00.119120Z
+c9b756f9dfa3b8184616d04408c423e9
+2012-08-01T20:16:25.017790Z
+5304
+sraman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10047
+
+graphics
+dir
+
+xml
+dir
+
+log
+dir
+
+r
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5444/trunk/src/query/ops/slice
+END
+SliceArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4850/trunk/src/query/ops/slice/SliceArray.h
+END
+LogicalSlice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5444/trunk/src/query/ops/slice/LogicalSlice.cpp
+END
+PhysicalSlice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5396/trunk/src/query/ops/slice/PhysicalSlice.cpp
+END
+SliceArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4850/trunk/src/query/ops/slice/SliceArray.cpp
+END

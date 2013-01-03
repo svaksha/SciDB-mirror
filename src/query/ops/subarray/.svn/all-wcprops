@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5444/trunk/src/query/ops/subarray
+END
+SubArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5226/trunk/src/query/ops/subarray/SubArray.cpp
+END
+SubArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4838/trunk/src/query/ops/subarray/SubArray.h
+END
+LogicalSubArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5444/trunk/src/query/ops/subarray/LogicalSubArray.cpp
+END
+PhysicalSubArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5396/trunk/src/query/ops/subarray/PhysicalSubArray.cpp
+END

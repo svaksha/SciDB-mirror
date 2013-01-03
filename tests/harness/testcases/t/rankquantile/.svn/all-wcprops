@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5614/trunk/tests/harness/testcases/t/rankquantile
+END
+quantile_nid4.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5505/trunk/tests/harness/testcases/t/rankquantile/quantile_nid4.test
+END
+quantile_nid5.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5505/trunk/tests/harness/testcases/t/rankquantile/quantile_nid5.test
+END
+ranking_avgrank.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5528/trunk/tests/harness/testcases/t/rankquantile/ranking_avgrank.test
+END
+quantile1.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5505/trunk/tests/harness/testcases/t/rankquantile/quantile1.test
+END
+ranking_rank.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5528/trunk/tests/harness/testcases/t/rankquantile/ranking_rank.test
+END
+quantile2.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5614/trunk/tests/harness/testcases/t/rankquantile/quantile2.test
+END
+quantile3.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5505/trunk/tests/harness/testcases/t/rankquantile/quantile3.test
+END
+la_rank.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/t/rankquantile/la_rank.test
+END
+quantile7.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5505/trunk/tests/harness/testcases/t/rankquantile/quantile7.test
+END
+ranking_quantile_4dnull.test
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5528/trunk/tests/harness/testcases/t/rankquantile/ranking_quantile_4dnull.test
+END
+sort_fix1.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5231/trunk/tests/harness/testcases/t/rankquantile/sort_fix1.test
+END
+ranking_quantile_3d.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5528/trunk/tests/harness/testcases/t/rankquantile/ranking_quantile_3d.test
+END
+quantile_udt6.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5505/trunk/tests/harness/testcases/t/rankquantile/quantile_udt6.test
+END
+stringdims_withsubarray.test
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5371/trunk/tests/harness/testcases/t/rankquantile/stringdims_withsubarray.test
+END
+ranking_quantile.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5528/trunk/tests/harness/testcases/t/rankquantile/ranking_quantile.test
+END
+la_quantile.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5154/trunk/tests/harness/testcases/t/rankquantile/la_quantile.test
+END
+ranking_quantile_multidim.test
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5528/trunk/tests/harness/testcases/t/rankquantile/ranking_quantile_multidim.test
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5444/trunk/src/query/ops/create_array
+END
+LogicalCreateArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5444/trunk/src/query/ops/create_array/LogicalCreateArray.cpp
+END
+PhysicalCreateArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5151/trunk/src/query/ops/create_array/PhysicalCreateArray.cpp
+END

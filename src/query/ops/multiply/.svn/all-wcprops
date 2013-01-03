@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5708/trunk/src/query/ops/multiply
+END
+SparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4237/trunk/src/query/ops/multiply/SparseMatrix.h
+END
+LogicalMultiply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5444/trunk/src/query/ops/multiply/LogicalMultiply.cpp
+END
+PhysicalMultiply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5396/trunk/src/query/ops/multiply/PhysicalMultiply.cpp
+END
+MultiplyArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5708/trunk/src/query/ops/multiply/MultiplyArray.cpp
+END
+MultiplyArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5294/trunk/src/query/ops/multiply/MultiplyArray.h
+END

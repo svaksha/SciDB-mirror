@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5773/trunk/tests/harness/testcases/t
+END
+disable.tests
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5751/trunk/tests/harness/testcases/t/disable.tests
+END
+disable1i.tests
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5738/trunk/tests/harness/testcases/t/disable1i.tests
+END

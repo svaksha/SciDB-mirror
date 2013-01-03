@@ -1,0 +1,26 @@
+Query was executed successfully
+
+Query was executed successfully
+
+Query was executed successfully
+
+{x,y} a,b
+{0,1} "a_0-1",null
+{4,0} "a_4-0","b_4-0"
+
+[An error expected at this place for the query "redimension(A,B)". And it failed with error code = scidb::SCIDB_SE_INFER_SCHEMA::SCIDB_LE_WRONG_ATTRIBUTE_FLAGS. Expected error code = scidb::SCIDB_SE_INFER_SCHEMA::SCIDB_LE_WRONG_ATTRIBUTE_FLAGS.]
+
+[An error expected at this place for the query "redimension_store(A,B)". And it failed with error code = scidb::SCIDB_SE_INFER_SCHEMA::SCIDB_LE_WRONG_ATTRIBUTE_FLAGS. Expected error code = scidb::SCIDB_SE_INFER_SCHEMA::SCIDB_LE_WRONG_ATTRIBUTE_FLAGS.]
+
+[An error expected at this place for the query "redimension(A,C)". And it failed with error code = scidb::SCIDB_SE_INFER_SCHEMA::SCIDB_LE_WRONG_ATTRIBUTE_FLAGS. Expected error code = scidb::SCIDB_SE_INFER_SCHEMA::SCIDB_LE_WRONG_ATTRIBUTE_FLAGS.]
+
+[An error expected at this place for the query "redimension_store(A,C)". And it failed with error code = scidb::SCIDB_SE_INFER_SCHEMA::SCIDB_LE_WRONG_ATTRIBUTE_FLAGS. Expected error code = scidb::SCIDB_SE_INFER_SCHEMA::SCIDB_LE_WRONG_ATTRIBUTE_FLAGS.]
+
+[An error expected at this place for the query "redimension_store(A,D)". And it failed with error code = scidb::SCIDB_SE_INFER_SCHEMA::SCIDB_LE_ARRAY_DOESNT_EXIST. Expected error code = scidb::SCIDB_SE_INFER_SCHEMA::SCIDB_LE_ARRAY_DOESNT_EXIST.]
+
+Query was executed successfully
+
+Query was executed successfully
+
+Query was executed successfully
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5416/trunk/src/network/proto
+END
+scidb_msg.proto
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5416/trunk/src/network/proto/scidb_msg.proto
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2858/trunk/src/network/proto/CMakeLists.txt
+END

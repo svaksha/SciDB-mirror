@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5444/trunk/src/query/ops/attribute_rename
+END
+LogicalAttributeRename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5444/trunk/src/query/ops/attribute_rename/LogicalAttributeRename.cpp
+END
+PhysicalAttributeRename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4237/trunk/src/query/ops/attribute_rename/PhysicalAttributeRename.cpp
+END

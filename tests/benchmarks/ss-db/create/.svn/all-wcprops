@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3365/trunk/tests/benchmarks/ss-db/create
+END
+projection.afl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3365/trunk/tests/benchmarks/ss-db/create/projection.afl
+END
+tiny_space.afl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3365/trunk/tests/benchmarks/ss-db/create/tiny_space.afl
+END
+verysmall.afl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3365/trunk/tests/benchmarks/ss-db/create/verysmall.afl
+END
+tiny.afl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3365/trunk/tests/benchmarks/ss-db/create/tiny.afl
+END

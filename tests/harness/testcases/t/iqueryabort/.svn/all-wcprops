@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5531/trunk/tests/harness/testcases/t/iqueryabort
+END
+abort_store.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5527/trunk/tests/harness/testcases/t/iqueryabort/abort_store.test
+END
+abort_load.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5527/trunk/tests/harness/testcases/t/iqueryabort/abort_load.test
+END
+abort_rdstore_1.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5531/trunk/tests/harness/testcases/t/iqueryabort/abort_rdstore_1.test
+END
+abort_update.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5527/trunk/tests/harness/testcases/t/iqueryabort/abort_update.test
+END
+abort_rdstore_2.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5527/trunk/tests/harness/testcases/t/iqueryabort/abort_rdstore_2.test
+END
+abort_rdstore_3.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5527/trunk/tests/harness/testcases/t/iqueryabort/abort_rdstore_3.test
+END
+abort_rdstore_4.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5527/trunk/tests/harness/testcases/t/iqueryabort/abort_rdstore_4.test
+END
+abort_rdstore_7.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5531/trunk/tests/harness/testcases/t/iqueryabort/abort_rdstore_7.test
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4562/trunk/tests/scale
+END
+scale.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4562/trunk/tests/scale/scale.py
+END
+load-sg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4562/trunk/tests/scale/load-sg.sh
+END
+scale2.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4562/trunk/tests/scale/scale2.py
+END

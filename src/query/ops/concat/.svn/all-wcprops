@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5444/trunk/src/query/ops/concat
+END
+ConcatArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5294/trunk/src/query/ops/concat/ConcatArray.cpp
+END
+ConcatArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5294/trunk/src/query/ops/concat/ConcatArray.h
+END
+LogicalConcat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5444/trunk/src/query/ops/concat/LogicalConcat.cpp
+END
+PhysicalConcat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5396/trunk/src/query/ops/concat/PhysicalConcat.cpp
+END
