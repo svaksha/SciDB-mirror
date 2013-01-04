@@ -28,7 +28,7 @@
 
 
 ** Purpose
-This is only a SciDB mirror from [[http://www.scidb.org][scidb.org]]. The purpose of this
+This is only a SciDB mirror from [[http://www.scidb.org/][scidb.org]]. The purpose of this
 repository is to make public contribution easier [1].
 
 ** Branch Structure
